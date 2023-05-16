@@ -1,4 +1,8 @@
 ---
 title: Menu principal
-items: []
+items:
+- title: Practical information
+  target: "/practical-information/"
+  kind: page
+  children: []
 
