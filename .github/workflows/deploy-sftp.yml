@@ -34,13 +34,11 @@ jobs:
       - name: Build
         run: hugo -e production --minify
 
-      - name: Sync files
-        uses: wlixcc/SFTP-Deploy-Action@v1.2.4
+      - name: SFTP Deploy
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.4
         with:
           server: ${{ secrets.FTP_HOSTNAME }}
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
-          port: ${{ secrets.FTP_PORT }}
-          local_path: ${{ secrets.FTP_LOCAL_DIR }}
-          remote_path: ${{ secrets.FTP_SERVER_DIR }}
-          sftp_only: true
+          local-dir: ${{ secrets.FTP_LOCAL_DIR }}
+          server-dir: ${{ secrets.FTP_SERVER_DIR }}
