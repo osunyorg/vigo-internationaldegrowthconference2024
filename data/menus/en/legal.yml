@@ -9,7 +9,7 @@ items:
   target: "/politique-de-confidentialite/"
   kind: page
   children: []
-- title: Plan du site
+- title: Sitemap
   target: "/sitemap/"
   kind: page
   children: []
