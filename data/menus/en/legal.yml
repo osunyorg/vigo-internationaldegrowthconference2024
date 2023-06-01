@@ -5,10 +5,6 @@ items:
   target: "/legal/"
   kind: page
   children: []
-- title: Politique de confidentialité
-  target: "/politique-de-confidentialite/"
-  kind: page
-  children: []
 - title: Sitemap
   target: "/sitemap/"
   kind: page
