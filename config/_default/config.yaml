@@ -9,5 +9,4 @@ params:
   summary:
     position: hero
   logo:
-    header: "/assets/images/logo.png"
-    footer: "/assets/images/logo-white.png"
+    footer: "/assets/images/logo-white.svg"
