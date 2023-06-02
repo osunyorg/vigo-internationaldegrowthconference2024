@@ -4,6 +4,7 @@ enableRobotsTXT: true
 removePathAccents: true
 
 params:
+  plausible: esee-degrowth2024.uvigo.gal
   breadcrumb:
     position: after-hero
   summary:
