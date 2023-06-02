@@ -13,4 +13,8 @@ items:
   target: "/news/"
   kind: page
   children: []
+- title: Home
+  target: "/"
+  kind: page
+  children: []
 
