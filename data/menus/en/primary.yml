@@ -5,4 +5,8 @@ items:
   target: "/"
   kind: page
   children: []
+- title: Venue, travel and accomodation
+  target: "/venue-travel-and-accomodation/"
+  kind: page
+  children: []
 
