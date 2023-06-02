@@ -9,10 +9,6 @@ items:
   target: https://www.conftool.net/en/index.html
   kind: url
   children: []
-- title: News
-  target: "/news/"
-  kind: page
-  children: []
 - title: Home
   target: "/"
   kind: page
