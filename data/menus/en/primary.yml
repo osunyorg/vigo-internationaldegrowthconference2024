@@ -5,4 +5,8 @@ items:
   target: "/practical-information/"
   kind: page
   children: []
+- title: Registration
+  target: https://www.conftool.net/en/index.html
+  kind: url
+  children: []
 
