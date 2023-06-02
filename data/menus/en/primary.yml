@@ -9,4 +9,8 @@ items:
   target: "/venue-travel-and-accomodation/"
   kind: page
   children: []
+- title: The Conference
+  target: "/the-conference/"
+  kind: page
+  children: []
 
