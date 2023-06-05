@@ -33,8 +33,8 @@ items:
     target: "/beyond-the-conference/lets-talk-about-degrowth/"
     kind: page
     children: []
-- title: Espazo Xove
-  target: "/beyond-the-conference/espazo-xove/"
-  kind: page
-  children: []
+  - title: Espazo Xove
+    target: "/beyond-the-conference/espazo-xove/"
+    kind: page
+    children: []
 
