@@ -37,4 +37,8 @@ items:
   target: "/venue-travel-and-accomodation/"
   kind: page
   children: []
+- title: Call for proposals
+  target: "/the-conference/call-for-proposals/"
+  kind: page
+  children: []
 
