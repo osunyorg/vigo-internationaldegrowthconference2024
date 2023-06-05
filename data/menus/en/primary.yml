@@ -21,4 +21,8 @@ items:
   target: "/venue-travel-and-accomodation/"
   kind: page
   children: []
+- title: Program
+  target: "/program/"
+  kind: page
+  children: []
 
