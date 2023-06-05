@@ -25,4 +25,8 @@ items:
   target: "/venue-travel-and-accomodation/"
   kind: page
   children: []
+- title: Beyond the Conference
+  target: "/beyond-the-conference/"
+  kind: page
+  children: []
 
