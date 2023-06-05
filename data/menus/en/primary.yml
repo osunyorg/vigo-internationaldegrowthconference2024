@@ -21,10 +21,6 @@ items:
   target: "/the-conference/keydates/"
   kind: page
   children: []
-- title: Venue, travel and accomodation
-  target: "/venue-travel-and-accomodation/"
-  kind: page
-  children: []
 - title: Beyond the Conference
   target: "/beyond-the-conference/"
   kind: page
@@ -37,4 +33,8 @@ items:
     target: "/beyond-the-conference/espazo-xove/"
     kind: page
     children: []
+- title: Venue, travel and accomodation
+  target: "/venue-travel-and-accomodation/"
+  kind: page
+  children: []
 
