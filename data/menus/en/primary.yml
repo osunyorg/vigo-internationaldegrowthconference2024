@@ -28,11 +28,11 @@ items:
 - title: Beyond the Conference
   target: "/beyond-the-conference/"
   kind: page
-  children: []
-- title: Let's talk about Degrowth!
-  target: "/beyond-the-conference/lets-talk-about-degrowth/"
-  kind: page
-  children: []
+  children:
+  - title: Let's talk about Degrowth!
+    target: "/beyond-the-conference/lets-talk-about-degrowth/"
+    kind: page
+    children: []
 - title: Espazo Xove
   target: "/beyond-the-conference/espazo-xove/"
   kind: page
