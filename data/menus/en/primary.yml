@@ -13,16 +13,16 @@ items:
     target: "/the-conference/session-formats/"
     kind: page
     children: []
+  - title: Program
+    target: "/program/"
+    kind: page
+    children: []
 - title: Keydates
   target: "/the-conference/keydates/"
   kind: page
   children: []
 - title: Venue, travel and accomodation
   target: "/venue-travel-and-accomodation/"
-  kind: page
-  children: []
-- title: Program
-  target: "/program/"
   kind: page
   children: []
 
