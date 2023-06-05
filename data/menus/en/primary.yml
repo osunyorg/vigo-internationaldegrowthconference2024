@@ -41,4 +41,8 @@ items:
   target: "/venue-travel-and-accomodation/"
   kind: page
   children: []
+- title: Registration
+  target: "/registration/"
+  kind: page
+  children: []
 
