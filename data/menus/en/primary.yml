@@ -17,4 +17,8 @@ items:
   target: "/venue-travel-and-accomodation/"
   kind: page
   children: []
+- title: Session formats
+  target: "/the-conference/session-formats/"
+  kind: page
+  children: []
 
