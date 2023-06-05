@@ -9,6 +9,10 @@ items:
   target: "/the-conference/"
   kind: page
   children:
+  - title: Call for proposals
+    target: "/the-conference/call-for-proposals/"
+    kind: page
+    children: []
   - title: Session formats
     target: "/the-conference/session-formats/"
     kind: page
@@ -35,10 +39,6 @@ items:
     children: []
 - title: Venue, travel and accomodation
   target: "/venue-travel-and-accomodation/"
-  kind: page
-  children: []
-- title: Call for proposals
-  target: "/the-conference/call-for-proposals/"
   kind: page
   children: []
 
