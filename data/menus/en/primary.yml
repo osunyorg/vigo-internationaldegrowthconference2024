@@ -9,10 +9,6 @@ items:
   target: "/the-conference/"
   kind: page
   children:
-  - title: Committees
-    target: "/the-conference/local-scientific-committee/"
-    kind: page
-    children: []
   - title: Call for proposals
     target: "/the-conference/call-for-proposals/"
     kind: page
