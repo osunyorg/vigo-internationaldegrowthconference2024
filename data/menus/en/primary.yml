@@ -49,4 +49,8 @@ items:
   target: "/contact/"
   kind: page
   children: []
+- title: Organizers
+  target: "/the-conference/local-scientific-committee/"
+  kind: page
+  children: []
 
