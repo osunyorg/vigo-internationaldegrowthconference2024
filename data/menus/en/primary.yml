@@ -45,4 +45,8 @@ items:
   target: "/registration/"
   kind: page
   children: []
+- title: Committees
+  target: "/the-conference/local-scientific-committee/"
+  kind: page
+  children: []
 
