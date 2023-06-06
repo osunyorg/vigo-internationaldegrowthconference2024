@@ -9,6 +9,10 @@ items:
   target: "/the-conference/"
   kind: page
   children:
+  - title: Organizers
+    target: "/the-conference/local-scientific-committee/"
+    kind: page
+    children: []
   - title: Call for proposals
     target: "/the-conference/call-for-proposals/"
     kind: page
@@ -47,10 +51,6 @@ items:
   children: []
 - title: Contact
   target: "/contact/"
-  kind: page
-  children: []
-- title: Organizers
-  target: "/the-conference/local-scientific-committee/"
   kind: page
   children: []
 
