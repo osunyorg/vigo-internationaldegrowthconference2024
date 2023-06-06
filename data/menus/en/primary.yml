@@ -49,4 +49,8 @@ items:
   target: "/registration/"
   kind: page
   children: []
+- title: Contact
+  target: "/contact/"
+  kind: page
+  children: []
 
