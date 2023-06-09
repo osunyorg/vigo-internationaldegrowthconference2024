@@ -77,4 +77,8 @@ items:
     target: "/en/practical-information/contact/"
     kind: page
     children: []
+- title: Beyond the Conference
+  target: "/en/beyond-the-conference/beyond-the-conference-1/"
+  kind: page
+  children: []
 
