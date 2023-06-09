@@ -41,14 +41,14 @@ items:
     target: "/beyond-the-conference/espazo-xove/"
     kind: page
     children: []
-- title: Contact
-  target: "/contact/"
-  kind: page
-  children: []
 - title: Practical information
   target: ''
   kind: blank
   children:
+  - title: Contact
+    target: "/contact/"
+    kind: page
+    children: []
   - title: Registration
     target: "/registration/"
     kind: page
