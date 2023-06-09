@@ -12,7 +12,11 @@ items:
   - title: Program
     target: "/en/the-conference/program/"
     kind: page
-    children: []
+    children:
+    - title: Session formats
+      target: "/en/the-conference/program/session-formats/"
+      kind: page
+      children: []
   - title: Organizers
     target: "/en/the-conference/local-scientific-committee/"
     kind: page
@@ -22,11 +26,7 @@ items:
     kind: page
     children: []
   - title: Keydates
-    target: "/en/the-conference/keydates/"
-    kind: page
-    children: []
-  - title: Session formats
-    target: "/en/the-conference/session-formats/"
+    target: "/en/practical-information/keydates/"
     kind: page
     children: []
 - title: Beyond the Conference
