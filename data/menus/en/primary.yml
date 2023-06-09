@@ -22,7 +22,7 @@ items:
     kind: page
     children:
     - title: Call for proposals
-      target: "/en/the-conference/call-for-proposals/"
+      target: "/en/the-conference/program/call-for-proposals/"
       kind: page
       children: []
     - title: Session formats
@@ -73,8 +73,4 @@ items:
       target: "/en/practical-information/venue-travel-and-accomodation/venue-travel-and-accomodation-1-1-1/"
       kind: page
       children: []
-- title: Contact
-  target: "/en/practical-information/contact/"
-  kind: page
-  children: []
 
