@@ -41,10 +41,6 @@ items:
     target: "/beyond-the-conference/espazo-xove/"
     kind: page
     children: []
-- title: Registration
-  target: "/registration/"
-  kind: page
-  children: []
 - title: Contact
   target: "/contact/"
   kind: page
@@ -53,6 +49,10 @@ items:
   target: ''
   kind: blank
   children:
+  - title: Registration
+    target: "/registration/"
+    kind: page
+    children: []
   - title: Venue, travel and accomodation
     target: "/venue-travel-and-accomodation/"
     kind: page
