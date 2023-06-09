@@ -13,6 +13,10 @@ items:
     target: "/en/the-conference/local-scientific-committee/"
     kind: page
     children: []
+  - title: Principles
+    target: "/en/the-conference/principles/"
+    kind: page
+    children: []
   - title: Call for proposals
     target: "/en/the-conference/call-for-proposals/"
     kind: page
@@ -69,10 +73,6 @@ items:
     target: "/en/practical-information/contact/"
     kind: page
     children: []
-- title: Principles
-  target: "/en/the-conference/principles/"
-  kind: page
-  children: []
 - title: Special sessions
   target: "/en/the-conference/program/special-sessions/"
   kind: page
