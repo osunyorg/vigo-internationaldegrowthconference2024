@@ -69,4 +69,8 @@ items:
     target: "/en/practical-information/contact/"
     kind: page
     children: []
+- title: Principles
+  target: "/en/the-conference/principles/"
+  kind: page
+  children: []
 
