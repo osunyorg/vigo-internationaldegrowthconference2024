@@ -13,6 +13,10 @@ items:
     target: "/en/the-conference/local-scientific-committee/"
     kind: page
     children: []
+  - title: Call for proposals
+    target: "/en/the-conference/call-for-proposals/"
+    kind: page
+    children: []
   - title: Program
     target: "/en/the-conference/program/"
     kind: page
@@ -21,10 +25,6 @@ items:
       target: "/en/the-conference/program/session-formats/"
       kind: page
       children: []
-  - title: Call for proposals
-    target: "/en/the-conference/call-for-proposals/"
-    kind: page
-    children: []
   - title: Keydates
     target: "/en/practical-information/keydates/"
     kind: page
