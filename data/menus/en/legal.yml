@@ -2,11 +2,11 @@
 title: Legal menu
 items:
 - title: Legal
-  target: "/legal/"
+  target: "/en/legal/"
   kind: page
   children: []
 - title: Sitemap
-  target: "/sitemap/"
+  target: "/en/sitemap/"
   kind: page
   children: []
 

@@ -2,59 +2,79 @@
 title: Main menu
 items:
 - title: Home
-  target: "/"
+  target: "/en/"
   kind: page
   children: []
 - title: The Conference
-  target: "/the-conference/"
+  target: "/en/the-conference/"
   kind: page
   children:
-  - title: Program
-    target: "/the-conference/program/"
-    kind: page
-    children: []
   - title: Organizers
-    target: "/the-conference/local-scientific-committee/"
+    target: "/en/the-conference/local-scientific-committee/"
     kind: page
     children: []
-  - title: Call for proposals
-    target: "/the-conference/call-for-proposals/"
+  - title: Principles
+    target: "/en/the-conference/principles/"
     kind: page
     children: []
-  - title: Keydates
-    target: "/the-conference/keydates/"
+  - title: Program
+    target: "/en/the-conference/program/"
+    kind: page
+    children:
+    - title: Call for proposals
+      target: "/en/the-conference/program/call-for-proposals/"
+      kind: page
+      children: []
+    - title: Session formats
+      target: "/en/the-conference/program/session-formats/"
+      kind: page
+      children: []
+- title: Beyond the Conference
+  target: "/en/beyond-the-conference/"
+  kind: page
+  children:
+  - title: Beyond the Conference
+    target: "/en/beyond-the-conference/beyond-the-conference-1/"
     kind: page
     children: []
-  - title: Session formats
-    target: "/the-conference/session-formats/"
+  - title: Let's talk about Degrowth!
+    target: "/en/beyond-the-conference/lets-talk-about-degrowth/"
+    kind: page
+    children: []
+  - title: Espazo Xove
+    target: "/en/beyond-the-conference/espazo-xove/"
     kind: page
     children: []
 - title: Practical information
   target: ''
   kind: blank
   children:
-  - title: Contact
-    target: "/contact/"
+  - title: Keydates
+    target: "/en/practical-information/keydates/"
     kind: page
     children: []
   - title: Registration
-    target: "/registration/"
+    target: "/en/practical-information/registration/"
     kind: page
     children: []
   - title: Venue, travel and accomodation
-    target: "/venue-travel-and-accomodation/"
+    target: "/en/practical-information/venue-travel-and-accomodation/"
     kind: page
-    children: []
-- title: Beyond the Conference
-  target: "/beyond-the-conference/"
-  kind: page
-  children:
-  - title: Let's talk about Degrowth!
-    target: "/beyond-the-conference/lets-talk-about-degrowth/"
-    kind: page
-    children: []
-  - title: Espazo Xove
-    target: "/beyond-the-conference/espazo-xove/"
+    children:
+    - title: Venue
+      target: "/en/practical-information/venue-travel-and-accomodation/venue-travel-and-accomodation-1-1/"
+      kind: page
+      children: []
+    - title: Travel to Pontevedra
+      target: "/en/practical-information/venue-travel-and-accomodation/venue-travel-and-accomodation-1/"
+      kind: page
+      children: []
+    - title: Accomodation
+      target: "/en/practical-information/venue-travel-and-accomodation/venue-travel-and-accomodation-1-1-1/"
+      kind: page
+      children: []
+  - title: Can we help you?
+    target: "/en/practical-information/can-we-help-you/"
     kind: page
     children: []
 

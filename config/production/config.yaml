@@ -4,4 +4,4 @@ baseURL: https://esee-degrowth2024.uvigo.gal
 
 ## LANGUAGE
 defaultContentLanguage: en
-defaultContentLanguageInSubdir: false
+defaultContentLanguageInSubdir: true
