@@ -29,10 +29,6 @@ items:
       target: "/en/the-conference/program/session-formats/"
       kind: page
       children: []
-    - title: Special sessions
-      target: "/en/the-conference/program/special-sessions/"
-      kind: page
-      children: []
 - title: Beyond the Conference
   target: "/en/beyond-the-conference/"
   kind: page
