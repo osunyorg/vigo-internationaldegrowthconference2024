@@ -56,15 +56,19 @@ items:
   - title: Venue, travel and accomodation
     target: "/en/practical-information/venue-travel-and-accomodation/"
     kind: page
-    children: []
-- title: Venue
-  target: "/en/practical-information/venue-travel-and-accomodation/venue-travel-and-accomodation-1-1/"
-  kind: page
-  children: []
-- title: Travel to Pontevedra
-  target: "/en/practical-information/venue-travel-and-accomodation/venue-travel-and-accomodation-1/"
-  kind: page
-  children: []
+    children:
+    - title: Venue
+      target: "/en/practical-information/venue-travel-and-accomodation/venue-travel-and-accomodation-1-1/"
+      kind: page
+      children: []
+    - title: Travel to Pontevedra
+      target: "/en/practical-information/venue-travel-and-accomodation/venue-travel-and-accomodation-1/"
+      kind: page
+      children: []
+    - title: Accomodation
+      target: "/en/practical-information/venue-travel-and-accomodation/venue-travel-and-accomodation-1-1-1/"
+      kind: page
+      children: []
 - title: Accomodation
   target: "/en/practical-information/venue-travel-and-accomodation/venue-travel-and-accomodation-1-1-1/"
   kind: page
