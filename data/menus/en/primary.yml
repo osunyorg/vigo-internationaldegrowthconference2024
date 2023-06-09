@@ -41,10 +41,6 @@ items:
     target: "/beyond-the-conference/espazo-xove/"
     kind: page
     children: []
-- title: Venue, travel and accomodation
-  target: "/venue-travel-and-accomodation/"
-  kind: page
-  children: []
 - title: Registration
   target: "/registration/"
   kind: page
@@ -56,5 +52,9 @@ items:
 - title: Practical information
   target: ''
   kind: blank
-  children: []
+  children:
+  - title: Venue, travel and accomodation
+    target: "/venue-travel-and-accomodation/"
+    kind: page
+    children: []
 
