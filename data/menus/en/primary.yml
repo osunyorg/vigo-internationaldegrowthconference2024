@@ -29,6 +29,18 @@ items:
     target: "/en/the-conference/session-formats/"
     kind: page
     children: []
+- title: Beyond the Conference
+  target: "/en/beyond-the-conference/"
+  kind: page
+  children:
+  - title: Let's talk about Degrowth!
+    target: "/en/beyond-the-conference/lets-talk-about-degrowth/"
+    kind: page
+    children: []
+  - title: Espazo Xove
+    target: "/en/beyond-the-conference/espazo-xove/"
+    kind: page
+    children: []
 - title: Practical information
   target: ''
   kind: blank
@@ -43,18 +55,6 @@ items:
     children: []
   - title: Venue, travel and accomodation
     target: "/en/venue-travel-and-accomodation/"
-    kind: page
-    children: []
-- title: Beyond the Conference
-  target: "/en/beyond-the-conference/"
-  kind: page
-  children:
-  - title: Let's talk about Degrowth!
-    target: "/en/beyond-the-conference/lets-talk-about-degrowth/"
-    kind: page
-    children: []
-  - title: Espazo Xove
-    target: "/en/beyond-the-conference/espazo-xove/"
     kind: page
     children: []
 
