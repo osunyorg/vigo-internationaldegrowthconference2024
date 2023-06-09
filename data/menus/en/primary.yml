@@ -37,6 +37,10 @@ items:
   target: "/en/beyond-the-conference/"
   kind: page
   children:
+  - title: Beyond the Conference
+    target: "/en/beyond-the-conference/beyond-the-conference-1/"
+    kind: page
+    children: []
   - title: Let's talk about Degrowth!
     target: "/en/beyond-the-conference/lets-talk-about-degrowth/"
     kind: page
@@ -77,8 +81,4 @@ items:
     target: "/en/practical-information/contact/"
     kind: page
     children: []
-- title: Beyond the Conference
-  target: "/en/beyond-the-conference/beyond-the-conference-1/"
-  kind: page
-  children: []
 
