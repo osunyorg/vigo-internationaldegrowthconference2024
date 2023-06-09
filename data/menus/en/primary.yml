@@ -17,14 +17,14 @@ items:
     target: "/en/the-conference/principles/"
     kind: page
     children: []
-  - title: Call for proposals
-    target: "/en/the-conference/call-for-proposals/"
-    kind: page
-    children: []
   - title: Program
     target: "/en/the-conference/program/"
     kind: page
     children:
+    - title: Call for proposals
+      target: "/en/the-conference/call-for-proposals/"
+      kind: page
+      children: []
     - title: Session formats
       target: "/en/the-conference/program/session-formats/"
       kind: page
