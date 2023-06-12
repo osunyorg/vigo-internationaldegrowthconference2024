@@ -9,6 +9,10 @@ items:
   target: "/en/the-conference/"
   kind: page
   children:
+  - title: Keydates
+    target: "/en/the-conference/keydates/"
+    kind: page
+    children: []
   - title: About the conference
     target: "/en/the-conference/about-the-conference/"
     kind: page
@@ -97,8 +101,4 @@ items:
       target: "/en/practical-information/news-media-and-gallery/gallery/"
       kind: page
       children: []
-- title: Keydates
-  target: "/en/the-conference/keydates/"
-  kind: page
-  children: []
 
