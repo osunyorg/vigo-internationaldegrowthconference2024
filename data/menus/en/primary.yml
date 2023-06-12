@@ -80,11 +80,11 @@ items:
   - title: News, media and gallery
     target: "/en/practical-information/news-media-and-gallery/"
     kind: page
-    children: []
-- title: News
-  target: "/en/practical-information/news-media-and-gallery/news/"
-  kind: page
-  children: []
+    children:
+    - title: News
+      target: "/en/practical-information/news-media-and-gallery/news/"
+      kind: page
+      children: []
 - title: Media
   target: "/en/practical-information/news-media-and-gallery/media/"
   kind: page
