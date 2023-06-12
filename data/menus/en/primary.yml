@@ -81,4 +81,8 @@ items:
     target: "/en/practical-information/news-media-and-gallery/"
     kind: page
     children: []
+- title: News
+  target: "/en/practical-information/news-media-and-gallery/news/"
+  kind: page
+  children: []
 
