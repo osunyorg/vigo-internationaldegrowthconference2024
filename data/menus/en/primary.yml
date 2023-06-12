@@ -57,10 +57,6 @@ items:
   target: ''
   kind: blank
   children:
-  - title: Keydates
-    target: "/en/the-conference/keydates/"
-    kind: page
-    children: []
   - title: Registration
     target: "/en/practical-information/registration/"
     kind: page
