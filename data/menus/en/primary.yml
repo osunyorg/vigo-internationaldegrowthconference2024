@@ -97,4 +97,8 @@ items:
     target: "/en/practical-information/can-we-help-you/"
     kind: page
     children: []
+- title: The Conference (academic activities)
+  target: "/en/practical-information/registration/conference-academic-activities/"
+  kind: page
+  children: []
 
