@@ -9,6 +9,18 @@ items:
   target: "/en/the-conference/"
   kind: page
   children:
+  - title: About the conference
+    target: "/en/the-conference/about-the-conference/"
+    kind: page
+    children:
+    - title: Organizers
+      target: "/en/the-conference/about-the-conference/local-scientific-committee/"
+      kind: page
+      children: []
+    - title: Principles
+      target: "/en/the-conference/about-the-conference/principles/"
+      kind: page
+      children: []
   - title: Keydates
     target: "/en/the-conference/keydates/"
     kind: page
@@ -23,18 +35,6 @@ items:
       children: []
     - title: Session formats
       target: "/en/the-conference/program/session-formats/"
-      kind: page
-      children: []
-  - title: About the conference
-    target: "/en/the-conference/about-the-conference/"
-    kind: page
-    children:
-    - title: Organizers
-      target: "/en/the-conference/about-the-conference/local-scientific-committee/"
-      kind: page
-      children: []
-    - title: Principles
-      target: "/en/the-conference/about-the-conference/principles/"
       kind: page
       children: []
 - title: Beyond the Conference
