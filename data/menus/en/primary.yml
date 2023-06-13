@@ -57,6 +57,10 @@ items:
   target: ''
   kind: blank
   children:
+  - title: Registration
+    target: "/en/practical-information/registration/"
+    kind: page
+    children: []
   - title: Venue, travel and accomodation
     target: "/en/practical-information/venue-travel-and-accomodation/"
     kind: page
@@ -93,8 +97,4 @@ items:
     target: "/en/practical-information/can-we-help-you/"
     kind: page
     children: []
-- title: Registration
-  target: "/en/practical-information/registration/"
-  kind: page
-  children: []
 
