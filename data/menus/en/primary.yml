@@ -60,7 +60,15 @@ items:
   - title: Registration
     target: "/en/practical-information/registration/"
     kind: page
-    children: []
+    children:
+    - title: The Conference (academic activities)
+      target: "/en/practical-information/registration/conference-academic-activities/"
+      kind: page
+      children: []
+    - title: Beyond the Conference (extra-academic activities)
+      target: "/en/practical-information/registration/beyond-the-conference-extra-academic-activities/"
+      kind: page
+      children: []
   - title: Venue, travel and accomodation
     target: "/en/practical-information/venue-travel-and-accomodation/"
     kind: page
@@ -97,12 +105,4 @@ items:
     target: "/en/practical-information/can-we-help-you/"
     kind: page
     children: []
-- title: The Conference (academic activities)
-  target: "/en/practical-information/registration/conference-academic-activities/"
-  kind: page
-  children: []
-- title: Beyond the Conference (extra-academic activities)
-  target: "/en/practical-information/registration/beyond-the-conference-extra-academic-activities/"
-  kind: page
-  children: []
 
