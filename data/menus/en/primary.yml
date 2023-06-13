@@ -20,11 +20,7 @@ items:
     - title: Call for proposals
       target: "/en/the-conference/program/call-for-proposals/"
       kind: page
-      children:
-      - title: Topics
-        target: "/en/the-conference/program/call-for-proposals/call-for-proposals-1/"
-        kind: page
-        children: []
+      children: []
     - title: Session formats
       target: "/en/the-conference/program/session-formats/"
       kind: page
