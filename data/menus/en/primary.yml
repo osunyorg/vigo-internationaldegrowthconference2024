@@ -93,4 +93,8 @@ items:
     target: "/en/practical-information/can-we-help-you/"
     kind: page
     children: []
+- title: Registration
+  target: "/en/practical-information/registration/"
+  kind: page
+  children: []
 
