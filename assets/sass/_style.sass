@@ -3,8 +3,10 @@ h1
 
 .block-partners
     .organization
+        // No name visible, but still clickable
         h3
-            display: none
+            height: 0
+            overflow: hidden
         .media
             img
                 mix-blend-mode: multiply
@@ -18,3 +20,20 @@ body
 main > .blocks .block-image figure img, 
 body.full-width .block-image figure img
     width: 100%
+
+.toc-pages
+    font-weight: bold
+
+.footer-partners
+    img
+        display: block !important
+        max-width: 200px
+        @include media-breakpoint-up(desktop)
+            width: 200px
+            margin-left: $spacing3
+            margin-bottom: $spacing3
+            display: inline-table !important
+            vertical-align: middle
+        @include media-breakpoint-down(desktop)
+            margin-left: 0
+            margin-bottom: $spacing2

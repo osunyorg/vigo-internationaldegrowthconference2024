@@ -10,4 +10,5 @@ params:
   summary:
     position: hero
   logo:
+    header: "/assets/images/logo-white-planet.svg"
     footer: "/assets/images/logo-white.svg"
