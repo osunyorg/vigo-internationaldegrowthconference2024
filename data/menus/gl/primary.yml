@@ -5,8 +5,4 @@ items:
   target: "/gl/"
   kind: page
   children: []
-- title: Practical information
-  target: ''
-  kind: blank
-  children: []
 
