@@ -1,0 +1,28 @@
+---
+title: Main menu
+items:
+- title: Home
+  target: "/gl/"
+  kind: page
+  children: []
+- title: The Conference
+  target: ''
+  kind: blank
+  children:
+  - title: About the conference
+    target: ''
+    kind: blank
+    children: []
+  - title: Program
+    target: ''
+    kind: blank
+    children: []
+- title: Beyond the Conference
+  target: ''
+  kind: blank
+  children: []
+- title: Practical information
+  target: ''
+  kind: blank
+  children: []
+
