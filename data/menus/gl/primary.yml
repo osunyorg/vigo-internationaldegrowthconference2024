@@ -8,9 +8,9 @@ items:
 - title: Máis aló da Conferencia
   target: "/gl/beyond-the-conference/"
   kind: page
-  children: []
-- title: 'Postgrowth S.A.: Pontevedra. Imaxinando as cidades do futuro'
-  target: "/gl/beyond-the-conference/espazo-xove-1/espazo-xove-chamada-a-participacion/"
-  kind: page
-  children: []
+  children:
+  - title: 'Postgrowth S.A.: Pontevedra. Imaxinando as cidades do futuro'
+    target: "/gl/beyond-the-conference/espazo-xove-1/espazo-xove-chamada-a-participacion/"
+    kind: page
+    children: []
 
