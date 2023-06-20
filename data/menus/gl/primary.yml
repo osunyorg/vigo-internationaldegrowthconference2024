@@ -5,4 +5,8 @@ items:
   target: "/gl/"
   kind: page
   children: []
+- title: Máis aló da Conferencia
+  target: "/gl/beyond-the-conference/"
+  kind: page
+  children: []
 
