@@ -105,4 +105,8 @@ items:
     target: "/en/practical-information/can-we-help-you/"
     kind: page
     children: []
+- title: Tracks
+  target: "/en/the-conference/program/call-for-proposals/call-for-proposals-1/"
+  kind: page
+  children: []
 
