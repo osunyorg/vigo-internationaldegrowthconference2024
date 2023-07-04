@@ -64,11 +64,11 @@ items:
 - title: Información práctica
   target: "/gl/practical-information/"
   kind: page
-  children: []
-- title: Rexistro
-  target: "/gl/practical-information/registration/"
-  kind: page
-  children: []
+  children:
+  - title: Rexistro
+    target: "/gl/practical-information/registration/"
+    kind: page
+    children: []
 - title: Lugar de celebración, viaxe e aloxamento
   target: "/gl/practical-information/venue-travel-and-accomodation/"
   kind: page
