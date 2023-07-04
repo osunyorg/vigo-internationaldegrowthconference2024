@@ -72,7 +72,11 @@ items:
   - title: Lugar de celebración, viaxe e aloxamento
     target: "/gl/practical-information/venue-travel-and-accomodation/"
     kind: page
-    children: []
+    children:
+    - title: Lugar de celebración
+      target: "/gl/practical-information/venue-travel-and-accomodation/venue-travel-and-accomodation-1-1/"
+      kind: page
+      children: []
 - title: Lugar de celebración
   target: "/gl/practical-information/venue-travel-and-accomodation/venue-travel-and-accomodation-1-1/"
   kind: page
