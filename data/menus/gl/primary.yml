@@ -29,4 +29,8 @@ items:
   target: "/gl/the-conference/about-the-conference/local-scientific-committee/"
   kind: page
   children: []
+- title: Principios
+  target: "/gl/the-conference/about-the-conference/principles/"
+  kind: page
+  children: []
 
