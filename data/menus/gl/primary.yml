@@ -61,4 +61,8 @@ items:
       target: "/gl/beyond-the-conference/espazo-xove-1/espazo-xove-chamada-a-participacion/"
       kind: page
       children: []
+- title: Información práctica
+  target: "/gl/practical-information/"
+  kind: page
+  children: []
 
