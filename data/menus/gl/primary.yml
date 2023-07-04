@@ -41,4 +41,8 @@ items:
   target: "/gl/the-conference/program/call-for-proposals/"
   kind: page
   children: []
+- title: Formatos das sesións
+  target: "/gl/the-conference/program/session-formats/"
+  kind: page
+  children: []
 
