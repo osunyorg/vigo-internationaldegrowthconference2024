@@ -49,4 +49,8 @@ items:
   target: "/gl/the-conference/program/call-for-proposals/call-for-proposals-1/"
   kind: page
   children: []
+- title: Datas clave
+  target: "/gl/the-conference/keydates/"
+  kind: page
+  children: []
 
