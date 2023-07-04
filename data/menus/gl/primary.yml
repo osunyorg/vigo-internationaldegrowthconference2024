@@ -9,10 +9,6 @@ items:
   target: "/gl/the-conference/"
   kind: page
   children:
-  - title: Programa
-    target: "/gl/the-conference/program/"
-    kind: page
-    children: []
   - title: Sobre a Conferencia
     target: "/gl/the-conference/about-the-conference/"
     kind: page
@@ -25,6 +21,10 @@ items:
       target: "/gl/the-conference/about-the-conference/principles/"
       kind: page
       children: []
+  - title: Programa
+    target: "/gl/the-conference/program/"
+    kind: page
+    children: []
 - title: Máis aló da Conferencia
   target: "/gl/beyond-the-conference/"
   kind: page
