@@ -77,4 +77,8 @@ items:
   target: "/gl/practical-information/venue-travel-and-accomodation/venue-travel-and-accomodation-1-1/"
   kind: page
   children: []
+- title: Viaxar a Pontevedra
+  target: "/gl/practical-information/venue-travel-and-accomodation/venue-travel-and-accomodation-1/"
+  kind: page
+  children: []
 
