@@ -45,4 +45,8 @@ items:
   target: "/gl/the-conference/program/session-formats/"
   kind: page
   children: []
+- title: Bloques temáticos
+  target: "/gl/the-conference/program/call-for-proposals/call-for-proposals-1/"
+  kind: page
+  children: []
 
