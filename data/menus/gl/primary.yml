@@ -33,6 +33,10 @@ items:
       target: "/gl/the-conference/program/session-formats/"
       kind: page
       children: []
+    - title: Bloques temáticos
+      target: "/gl/the-conference/program/call-for-proposals/call-for-proposals-1/"
+      kind: page
+      children: []
 - title: Máis aló da Conferencia
   target: "/gl/beyond-the-conference/"
   kind: page
@@ -45,10 +49,6 @@ items:
       target: "/gl/beyond-the-conference/espazo-xove-1/espazo-xove-chamada-a-participacion/"
       kind: page
       children: []
-- title: Bloques temáticos
-  target: "/gl/the-conference/program/call-for-proposals/call-for-proposals-1/"
-  kind: page
-  children: []
 - title: Datas clave
   target: "/gl/the-conference/keydates/"
   kind: page
