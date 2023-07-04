@@ -93,4 +93,8 @@ items:
   target: "/gl/practical-information/news-media-and-gallery/"
   kind: page
   children: []
+- title: Noticias
+  target: "/gl/practical-information/news-media-and-gallery/actualites/"
+  kind: page
+  children: []
 
