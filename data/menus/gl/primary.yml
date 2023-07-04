@@ -21,6 +21,10 @@ items:
       target: "/gl/the-conference/about-the-conference/principles/"
       kind: page
       children: []
+  - title: Datas clave
+    target: "/gl/the-conference/keydates/"
+    kind: page
+    children: []
   - title: Programa
     target: "/gl/the-conference/program/"
     kind: page
@@ -49,8 +53,4 @@ items:
       target: "/gl/beyond-the-conference/espazo-xove-1/espazo-xove-chamada-a-participacion/"
       kind: page
       children: []
-- title: Datas clave
-  target: "/gl/the-conference/keydates/"
-  kind: page
-  children: []
 
