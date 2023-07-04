@@ -33,4 +33,8 @@ items:
   target: "/gl/the-conference/about-the-conference/principles/"
   kind: page
   children: []
+- title: Programa
+  target: "/gl/the-conference/program/"
+  kind: page
+  children: []
 
