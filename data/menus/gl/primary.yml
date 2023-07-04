@@ -13,12 +13,12 @@ items:
     target: "/gl/the-conference/about-the-conference/"
     kind: page
     children:
-    - title: Principios
-      target: "/gl/the-conference/about-the-conference/principles/"
-      kind: page
-      children: []
     - title: Organización
       target: "/gl/the-conference/about-the-conference/local-scientific-committee/"
+      kind: page
+      children: []
+    - title: Principios
+      target: "/gl/the-conference/about-the-conference/principles/"
       kind: page
       children: []
 - title: Máis aló da Conferencia
@@ -33,10 +33,6 @@ items:
       target: "/gl/beyond-the-conference/espazo-xove-1/espazo-xove-chamada-a-participacion/"
       kind: page
       children: []
-- title: Organización
-  target: "/gl/the-conference/about-the-conference/local-scientific-committee/"
-  kind: page
-  children: []
 - title: Programa
   target: "/gl/the-conference/program/"
   kind: page
