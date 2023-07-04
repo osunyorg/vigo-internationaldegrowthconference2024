@@ -85,4 +85,8 @@ items:
   target: "/gl/practical-information/registration/conference-academic-activities/"
   kind: page
   children: []
+- title: Nas actividades extra-académicas (Máis aló da Conferencia)
+  target: "/gl/practical-information/registration/beyond-the-conference-extra-academic-activities/"
+  kind: page
+  children: []
 
