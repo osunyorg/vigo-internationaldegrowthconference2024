@@ -65,4 +65,8 @@ items:
   target: "/gl/practical-information/"
   kind: page
   children: []
+- title: Rexistro
+  target: "/gl/practical-information/registration/"
+  kind: page
+  children: []
 
