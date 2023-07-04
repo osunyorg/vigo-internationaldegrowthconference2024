@@ -89,4 +89,8 @@ items:
       target: "/gl/practical-information/venue-travel-and-accomodation/venue-travel-and-accomodation-1/"
       kind: page
       children: []
+- title: Noticias, medios e galería
+  target: "/gl/practical-information/news-media-and-gallery/"
+  kind: page
+  children: []
 
