@@ -101,10 +101,6 @@ items:
     target: "/gl/practical-information/news-media-and-gallery/media/"
     kind: page
     children: []
-- title: Medios
-  target: "/gl/practical-information/news-media-and-gallery/media/"
-  kind: page
-  children: []
 - title: Galería
   target: "/gl/practical-information/news-media-and-gallery/gallery/"
   kind: page
