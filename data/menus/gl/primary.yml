@@ -57,4 +57,8 @@ items:
   target: "/gl/beyond-the-conference/beyond-the-conference-1/"
   kind: page
   children: []
+- title: "¡Falemos de Decrecemento!"
+  target: "/gl/beyond-the-conference/lets-talk-about-degrowth/"
+  kind: page
+  children: []
 
