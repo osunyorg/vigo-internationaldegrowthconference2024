@@ -36,10 +36,22 @@ header_text: >-
   
 contents:
   - kind: block
+    template: posts
+    title: >
+      Recent news
+    position: 1
+    data:
+      all: true
+      layout: grid
+      posts:
+        - "2023/2023-07-05-lanzamos-a-web"
+
+
+  - kind: block
     template: chapter
     title: >
       
-    position: 1
+    position: 2
     data:
       layout: no_background
       text: >-
@@ -60,18 +72,6 @@ contents:
         
 
 
-
-
-  - kind: block
-    template: posts
-    title: >
-      Recent news
-    position: 2
-    data:
-      all: true
-      layout: grid
-      posts:
-        - "2023/2023-07-05-lanzamos-a-web"
 
 
   - kind: block
@@ -127,10 +127,19 @@ contents:
 
 
 blocks:
+  - template: posts
+    title: >-
+      Recent news
+    position: 1
+    data:
+      all: true
+      layout: grid
+      posts:
+        - "2023/2023-07-05-lanzamos-a-web"
   - template: chapter
     title: >-
       
-    position: 1
+    position: 2
     data:
       layout: no_background
       text: >-
@@ -151,15 +160,6 @@ blocks:
         
 
 
-  - template: posts
-    title: >-
-      Recent news
-    position: 2
-    data:
-      all: true
-      layout: grid
-      posts:
-        - "2023/2023-07-05-lanzamos-a-web"
   - template: partners
     title: >-
       Promotores do evento
