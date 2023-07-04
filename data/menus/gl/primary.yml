@@ -12,7 +12,15 @@ items:
   - title: Sobre a Conferencia
     target: "/gl/the-conference/about-the-conference/"
     kind: page
-    children: []
+    children:
+    - title: Principios
+      target: "/gl/the-conference/about-the-conference/principles/"
+      kind: page
+      children: []
+    - title: Organización
+      target: "/gl/the-conference/about-the-conference/local-scientific-committee/"
+      kind: page
+      children: []
 - title: Máis aló da Conferencia
   target: "/gl/beyond-the-conference/"
   kind: page
@@ -27,10 +35,6 @@ items:
       children: []
 - title: Organización
   target: "/gl/the-conference/about-the-conference/local-scientific-committee/"
-  kind: page
-  children: []
-- title: Principios
-  target: "/gl/the-conference/about-the-conference/principles/"
   kind: page
   children: []
 - title: Programa
