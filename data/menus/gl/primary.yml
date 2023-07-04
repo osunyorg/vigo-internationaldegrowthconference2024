@@ -45,6 +45,14 @@ items:
   target: "/gl/beyond-the-conference/"
   kind: page
   children:
+  - title: Máis aló da Conferencia
+    target: "/gl/beyond-the-conference/beyond-the-conference-1/"
+    kind: page
+    children: []
+  - title: "¡Falemos de Decrecemento!"
+    target: "/gl/beyond-the-conference/lets-talk-about-degrowth/"
+    kind: page
+    children: []
   - title: Espazo Xove (Youth Space)
     target: "/gl/beyond-the-conference/espazo-xove-1/"
     kind: page
@@ -53,12 +61,4 @@ items:
       target: "/gl/beyond-the-conference/espazo-xove-1/espazo-xove-chamada-a-participacion/"
       kind: page
       children: []
-- title: Máis aló da Conferencia
-  target: "/gl/beyond-the-conference/beyond-the-conference-1/"
-  kind: page
-  children: []
-- title: "¡Falemos de Decrecemento!"
-  target: "/gl/beyond-the-conference/lets-talk-about-degrowth/"
-  kind: page
-  children: []
 
