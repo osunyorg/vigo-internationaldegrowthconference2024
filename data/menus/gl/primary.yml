@@ -21,10 +21,6 @@ items:
       target: "/gl/the-conference/about-the-conference/principles/"
       kind: page
       children: []
-  - title: Datas clave
-    target: "/gl/the-conference/keydates/"
-    kind: page
-    children: []
   - title: Programa
     target: "/gl/the-conference/program/"
     kind: page
@@ -41,6 +37,10 @@ items:
       target: "/gl/the-conference/program/call-for-proposals/call-for-proposals-1/"
       kind: page
       children: []
+  - title: Datas clave
+    target: "/gl/the-conference/keydates/"
+    kind: page
+    children: []
 - title: Máis aló da Conferencia
   target: "/gl/beyond-the-conference/"
   kind: page
