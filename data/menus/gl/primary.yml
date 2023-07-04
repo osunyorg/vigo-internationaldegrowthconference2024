@@ -68,7 +68,15 @@ items:
   - title: Rexistro
     target: "/gl/practical-information/registration/"
     kind: page
-    children: []
+    children:
+    - title: Nas actividades académicas (A Conferencia)
+      target: "/gl/practical-information/registration/conference-academic-activities/"
+      kind: page
+      children: []
+    - title: Nas actividades extra-académicas (Máis aló da Conferencia)
+      target: "/gl/practical-information/registration/beyond-the-conference-extra-academic-activities/"
+      kind: page
+      children: []
   - title: Lugar de celebración, viaxe e aloxamento
     target: "/gl/practical-information/venue-travel-and-accomodation/"
     kind: page
@@ -81,12 +89,4 @@ items:
       target: "/gl/practical-information/venue-travel-and-accomodation/venue-travel-and-accomodation-1/"
       kind: page
       children: []
-- title: Nas actividades académicas (A Conferencia)
-  target: "/gl/practical-information/registration/conference-academic-activities/"
-  kind: page
-  children: []
-- title: Nas actividades extra-académicas (Máis aló da Conferencia)
-  target: "/gl/practical-information/registration/beyond-the-conference-extra-academic-activities/"
-  kind: page
-  children: []
 
