@@ -8,11 +8,11 @@ items:
 - title: A Conferencia
   target: "/gl/the-conference/"
   kind: page
-  children: []
-- title: Sobre a Conferencia
-  target: "/gl/the-conference/about-the-conference/"
-  kind: page
-  children: []
+  children:
+  - title: Sobre a Conferencia
+    target: "/gl/the-conference/about-the-conference/"
+    kind: page
+    children: []
 - title: Máis aló da Conferencia
   target: "/gl/beyond-the-conference/"
   kind: page
