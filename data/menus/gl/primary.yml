@@ -24,7 +24,11 @@ items:
   - title: Programa
     target: "/gl/the-conference/program/"
     kind: page
-    children: []
+    children:
+    - title: Chamada para o envío de resumos
+      target: "/gl/the-conference/program/call-for-proposals/"
+      kind: page
+      children: []
 - title: Máis aló da Conferencia
   target: "/gl/beyond-the-conference/"
   kind: page
@@ -37,10 +41,6 @@ items:
       target: "/gl/beyond-the-conference/espazo-xove-1/espazo-xove-chamada-a-participacion/"
       kind: page
       children: []
-- title: Chamada para o envío de resumos
-  target: "/gl/the-conference/program/call-for-proposals/"
-  kind: page
-  children: []
 - title: Formatos das sesións
   target: "/gl/the-conference/program/session-formats/"
   kind: page
