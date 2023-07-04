@@ -21,4 +21,8 @@ items:
       target: "/gl/beyond-the-conference/espazo-xove-1/espazo-xove-chamada-a-participacion/"
       kind: page
       children: []
+- title: Sobre a Conferencia
+  target: "/gl/the-conference/about-the-conference/"
+  kind: page
+  children: []
 
