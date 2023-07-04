@@ -81,4 +81,8 @@ items:
       target: "/gl/practical-information/venue-travel-and-accomodation/venue-travel-and-accomodation-1/"
       kind: page
       children: []
+- title: Nas actividades académicas (A Conferencia)
+  target: "/gl/practical-information/registration/conference-academic-activities/"
+  kind: page
+  children: []
 
