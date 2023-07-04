@@ -92,11 +92,15 @@ items:
 - title: Noticias, medios e galería
   target: "/gl/practical-information/news-media-and-gallery/"
   kind: page
-  children: []
-- title: Noticias
-  target: "/gl/practical-information/news-media-and-gallery/actualites/"
-  kind: page
-  children: []
+  children:
+  - title: Noticias
+    target: "/gl/practical-information/news-media-and-gallery/actualites/"
+    kind: page
+    children: []
+  - title: Medios
+    target: "/gl/practical-information/news-media-and-gallery/media/"
+    kind: page
+    children: []
 - title: Medios
   target: "/gl/practical-information/news-media-and-gallery/media/"
   kind: page
