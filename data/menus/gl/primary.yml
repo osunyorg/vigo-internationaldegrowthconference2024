@@ -77,6 +77,22 @@ items:
       target: "/gl/practical-information/registration/beyond-the-conference-extra-academic-activities/"
       kind: page
       children: []
+  - title: Noticias, medios e galería
+    target: "/gl/practical-information/news-media-and-gallery/"
+    kind: page
+    children:
+    - title: Noticias
+      target: "/gl/practical-information/news-media-and-gallery/actualites/"
+      kind: page
+      children: []
+    - title: Medios
+      target: "/gl/practical-information/news-media-and-gallery/media/"
+      kind: page
+      children: []
+    - title: Galería
+      target: "/gl/practical-information/news-media-and-gallery/gallery/"
+      kind: page
+      children: []
   - title: Lugar de celebración, viaxe e aloxamento
     target: "/gl/practical-information/venue-travel-and-accomodation/"
     kind: page
@@ -89,22 +105,6 @@ items:
       target: "/gl/practical-information/venue-travel-and-accomodation/venue-travel-and-accomodation-1/"
       kind: page
       children: []
-- title: Noticias, medios e galería
-  target: "/gl/practical-information/news-media-and-gallery/"
-  kind: page
-  children:
-  - title: Noticias
-    target: "/gl/practical-information/news-media-and-gallery/actualites/"
-    kind: page
-    children: []
-  - title: Medios
-    target: "/gl/practical-information/news-media-and-gallery/media/"
-    kind: page
-    children: []
-  - title: Galería
-    target: "/gl/practical-information/news-media-and-gallery/gallery/"
-    kind: page
-    children: []
 - title: "¿Podémosche axudar?"
   target: "/gl/practical-information/can-we-help-you/"
   kind: page
