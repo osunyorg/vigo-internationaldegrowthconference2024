@@ -1,4 +1,8 @@
 ---
 title: Social menu
-items: []
+items:
+- title: Twitter
+  target: https://twitter.com/post_growth
+  kind: url
+  children: []
 
