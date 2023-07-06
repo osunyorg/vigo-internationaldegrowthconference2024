@@ -1,4 +1,8 @@
 ---
 title: Legal menu
-items: []
+items:
+- title: Aviso legal
+  target: "/gl/legal-terms/"
+  kind: page
+  children: []
 
