@@ -5,8 +5,4 @@ items:
   target: "/en/legal/"
   kind: page
   children: []
-- title: Sitemap
-  target: "/en/sitemap/"
-  kind: page
-  children: []
 
