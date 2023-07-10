@@ -70,7 +70,7 @@ items:
       kind: page
       children: []
     - title: Beyond the Conference (extra-academic activities)
-      target: "/en/practical-information/registration/beyond-the-conference-extra-academic-activities/"
+      target: "/en/practical-information/registration/extra-academic-activities/"
       kind: page
       children: []
   - title: Venue, travel and accomodation
