@@ -14,7 +14,7 @@ items:
     kind: page
     children:
     - title: Organizers
-      target: "/en/the-conference/about-the-conference/local-scientific-committee/"
+      target: "/en/the-conference/about-the-conference/organizers/"
       kind: page
       children: []
     - title: Principles
