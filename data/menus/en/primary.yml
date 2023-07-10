@@ -26,7 +26,7 @@ items:
     kind: page
     children:
     - title: Call for proposals
-      target: "/en/the-conference/program/call-for-proposals/"
+      target: "/en/the-conference/program/call-for-abstracts/"
       kind: page
       children: []
     - title: Session formats
@@ -34,7 +34,7 @@ items:
       kind: page
       children: []
     - title: Tracks
-      target: "/en/the-conference/program/call-for-proposals/call-for-proposals-1/"
+      target: "/en/the-conference/program/call-for-abstracts/call-for-proposals-1/"
       kind: page
       children: []
   - title: Keydates
