@@ -78,7 +78,7 @@ items:
     kind: page
     children:
     - title: Venue
-      target: "/en/practical-information/venue-travel-and-accomodation/venue-travel-and-accomodation-1-1/"
+      target: "/en/practical-information/venue-travel-and-accomodation/venue/"
       kind: page
       children: []
     - title: Travel to Pontevedra
