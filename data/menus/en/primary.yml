@@ -82,11 +82,11 @@ items:
       kind: page
       children: []
     - title: Travel to Pontevedra
-      target: "/en/practical-information/venue-travel-and-accomodation/venue-travel-and-accomodation-1/"
+      target: "/en/practical-information/venue-travel-and-accomodation/travel/"
       kind: page
       children: []
     - title: Accomodation
-      target: "/en/practical-information/venue-travel-and-accomodation/venue-travel-and-accomodation-1-1-1/"
+      target: "/en/practical-information/venue-travel-and-accomodation/accomodation/"
       kind: page
       children: []
   - title: News, media and gallery
