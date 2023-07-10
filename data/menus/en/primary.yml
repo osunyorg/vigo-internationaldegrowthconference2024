@@ -34,7 +34,7 @@ items:
       kind: page
       children: []
     - title: Tracks
-      target: "/en/the-conference/program/call-for-abstracts/call-for-proposals-1/"
+      target: "/en/the-conference/program/call-for-abstracts/tracks/"
       kind: page
       children: []
   - title: Keydates
