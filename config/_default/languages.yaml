@@ -15,6 +15,6 @@ gl:
   languageCode: gl
   languageName: Galego
   permalinks:
-    posts: /practical-information/news-media-and-gallery/actualites/:year-:month-:day-:slug/
+    posts: /practical-information/news-media-and-gallery/news/:year-:month-:day-:slug/
     organizations: /organisations/:slug/
     persons: /equipe/:slug/
