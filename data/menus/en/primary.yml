@@ -25,7 +25,7 @@ items:
     target: "/en/the-conference/program/"
     kind: page
     children:
-    - title: Call for proposals
+    - title: Call for abstracts
       target: "/en/the-conference/program/call-for-abstracts/"
       kind: page
       children: []
