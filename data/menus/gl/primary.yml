@@ -34,7 +34,7 @@ items:
       kind: page
       children: []
     - title: Bloques temáticos
-      target: "/gl/the-conference/program/call-for-proposals/call-for-proposals-1/"
+      target: "/gl/the-conference/program/call-for-proposals/tracks/"
       kind: page
       children: []
   - title: Datas clave
