@@ -5,3 +5,5 @@ external_domains:
   - "*.osuny.org"
   - "osuny.s3.fr-par.scw.cloud"
   - "plausible.io"
+  - "tv.uvigo.es"
+  - "youtu.be"
