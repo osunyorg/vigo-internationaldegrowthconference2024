@@ -109,4 +109,8 @@ items:
     target: "/en/practical-information/can-we-help-you/"
     kind: page
     children: []
+- title: Join ESEE-Degrowth 2024 Pontevedra. Become a volunteer!
+  target: "/en/esee-degrowth-2024-pontevedra-volunteers/"
+  kind: page
+  children: []
 
