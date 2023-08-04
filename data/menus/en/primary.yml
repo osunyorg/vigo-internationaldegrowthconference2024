@@ -41,6 +41,10 @@ items:
     target: "/en/the-conference/keydates/"
     kind: page
     children: []
+  - title: Join ESEE-Degrowth 2024 Pontevedra. Become a volunteer!
+    target: "/en/esee-degrowth-2024-pontevedra-volunteers/"
+    kind: page
+    children: []
 - title: Beyond the Conference
   target: "/en/beyond-the-conference/"
   kind: page
@@ -107,10 +111,6 @@ items:
       children: []
   - title: Can we help you?
     target: "/en/practical-information/can-we-help-you/"
-    kind: page
-    children: []
-  - title: Join ESEE-Degrowth 2024 Pontevedra. Become a volunteer!
-    target: "/en/esee-degrowth-2024-pontevedra-volunteers/"
     kind: page
     children: []
 
