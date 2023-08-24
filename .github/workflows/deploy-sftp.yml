@@ -1,4 +1,4 @@
-name: FTP deployment
+name: uvigo
 
 on:
   push:
