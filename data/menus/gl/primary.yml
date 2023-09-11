@@ -29,6 +29,10 @@ items:
       target: "/gl/the-conference/program/call-for-proposals/"
       kind: page
       children: []
+    - title: Convocatoria de propostas de Sesións/Bloques Temáticos Especiais
+      target: "/gl/the-conference/program/special-sessions-call/"
+      kind: page
+      children: []
     - title: Formatos das sesións
       target: "/gl/the-conference/program/session-formats/"
       kind: page
@@ -113,8 +117,4 @@ items:
     target: "/gl/practical-information/can-we-help-you/"
     kind: page
     children: []
-- title: Convocatoria de propostas de Sesións/Bloques Temáticos Especiais
-  target: "/gl/the-conference/program/special-sessions-call/"
-  kind: page
-  children: []
 
