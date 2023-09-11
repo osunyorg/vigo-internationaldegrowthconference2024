@@ -113,4 +113,8 @@ items:
     target: "/en/practical-information/can-we-help-you/"
     kind: page
     children: []
+- title: Special Sessions/Tracks call for proposals
+  target: "/en/the-conference/program/special-sessions-call/"
+  kind: page
+  children: []
 
