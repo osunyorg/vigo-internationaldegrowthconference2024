@@ -29,6 +29,10 @@ items:
       target: "/en/the-conference/program/call-for-abstracts/"
       kind: page
       children: []
+    - title: Special Sessions/Tracks call for proposals
+      target: "/en/the-conference/program/special-sessions-call/"
+      kind: page
+      children: []
     - title: Session formats
       target: "/en/the-conference/program/session-formats/"
       kind: page
@@ -113,8 +117,4 @@ items:
     target: "/en/practical-information/can-we-help-you/"
     kind: page
     children: []
-- title: Special Sessions/Tracks call for proposals
-  target: "/en/the-conference/program/special-sessions-call/"
-  kind: page
-  children: []
 
