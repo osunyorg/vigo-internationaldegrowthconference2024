@@ -113,4 +113,8 @@ items:
     target: "/gl/practical-information/can-we-help-you/"
     kind: page
     children: []
+- title: Convocatoria de propostas de Sesións/Bloques Temáticos Especiais
+  target: "/gl/the-conference/program/special-sessions-call/"
+  kind: page
+  children: []
 
