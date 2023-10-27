@@ -38,7 +38,19 @@ body.full-width .block-image figure img
             margin-left: 0
             margin-bottom: $spacing2
 
-// TMP hide
-// .header-i18n,
-// .footer-i18n
-//     display: none
+footer#document-footer
+    @include media-breakpoint-up(desktop)
+        .site-links
+            z-index: 1000
+            position: fixed
+            top: -5px
+            right: $spacing3
+            padding: 5px 5px 0
+            display: flex
+            margin-top: 0 !important
+            background: $color-accent
+            border-radius: 5px
+            li
+                margin: 5px 15px
+                &::after
+                    padding-left: 2px !important
