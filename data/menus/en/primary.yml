@@ -29,7 +29,7 @@ items:
       target: "/en/the-conference/program/call-for-abstracts/"
       kind: page
       children: []
-    - title: Session formats
+    - title: Type of sessions an contribution formats
       target: "/en/the-conference/program/session-formats/"
       kind: page
       children: []
