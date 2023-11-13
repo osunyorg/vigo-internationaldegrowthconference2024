@@ -33,7 +33,7 @@ items:
       target: "/en/the-conference/program/session-formats/"
       kind: page
       children: []
-    - title: Tracks
+    - title: Tracks and Open Special Sessions
       target: "/en/the-conference/program/call-for-abstracts/tracks/"
       kind: page
       children: []
