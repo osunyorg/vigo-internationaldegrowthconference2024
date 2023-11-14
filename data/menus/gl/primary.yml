@@ -33,7 +33,7 @@ items:
       target: "/gl/the-conference/program/session-formats/"
       kind: page
       children: []
-    - title: Bloques temáticos
+    - title: Bloques temáticos e Sesións Especiais Abertas
       target: "/gl/the-conference/program/call-for-proposals/tracks/"
       kind: page
       children: []
