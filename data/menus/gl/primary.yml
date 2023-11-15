@@ -26,7 +26,7 @@ items:
     kind: page
     children:
     - title: Chamada para o envío de resumos
-      target: "/gl/the-conference/program/call-for-proposals/"
+      target: "/gl/the-conference/call-for-proposals/"
       kind: page
       children: []
     - title: Tipo de sesións e formatos das contribucións
@@ -34,7 +34,7 @@ items:
       kind: page
       children: []
     - title: Bloques temáticos e Sesións Especiais Abertas
-      target: "/gl/the-conference/program/call-for-proposals/tracks/"
+      target: "/gl/the-conference/call-for-proposals/tracks/"
       kind: page
       children: []
   - title: Datas clave
