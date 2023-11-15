@@ -26,7 +26,7 @@ items:
     kind: page
     children:
     - title: Call for abstracts
-      target: "/en/the-conference/program/call-for-abstracts/"
+      target: "/en/the-conference/call-for-abstracts/"
       kind: page
       children: []
     - title: Type of sessions an contribution formats
@@ -34,7 +34,7 @@ items:
       kind: page
       children: []
     - title: Tracks and Open Special Sessions
-      target: "/en/the-conference/program/call-for-abstracts/tracks/"
+      target: "/en/the-conference/call-for-abstracts/tracks/"
       kind: page
       children: []
   - title: Keydates
