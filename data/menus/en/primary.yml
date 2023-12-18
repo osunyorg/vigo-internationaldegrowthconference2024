@@ -37,6 +37,10 @@ items:
       target: "/en/the-conference/program/call-for-abstracts/tracks/"
       kind: page
       children: []
+  - title: Keynote Speakers
+    target: "/en/the-conference/about-the-conference/knote-speakers/"
+    kind: page
+    children: []
   - title: Keydates
     target: "/en/the-conference/keydates/"
     kind: page
@@ -109,8 +113,4 @@ items:
     target: "/en/practical-information/can-we-help-you/"
     kind: page
     children: []
-- title: Keynote Speakers
-  target: "/en/the-conference/about-the-conference/knote-speakers/"
-  kind: page
-  children: []
 
