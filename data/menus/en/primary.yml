@@ -109,4 +109,8 @@ items:
     target: "/en/practical-information/can-we-help-you/"
     kind: page
     children: []
+- title: Keynote Speakers
+  target: "/en/the-conference/about-the-conference/knote-speakers/"
+  kind: page
+  children: []
 
