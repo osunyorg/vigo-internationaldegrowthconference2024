@@ -113,4 +113,8 @@ items:
     target: "/gl/practical-information/can-we-help-you/"
     kind: page
     children: []
+- title: Relatoras/es principais
+  target: "/gl/the-conference/about-the-conference/knote-speakers/"
+  kind: page
+  children: []
 
