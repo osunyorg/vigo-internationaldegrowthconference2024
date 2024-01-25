@@ -9,6 +9,7 @@ en:
     posts: /practical-information/news-media-and-gallery/news/:year-:month-:day-:slug/
     organizations: /organisations/:slug/
     persons: /team/:slug/
+    authors: /team/:slug/news/
   taxonomies:
     administrator: administrators
     author: authors
@@ -26,6 +27,7 @@ gl:
     posts: /practical-information/news-media-and-gallery/news/:year-:month-:day-:slug/
     organizations: /organisations/:slug/
     persons: /equipe/:slug/
+    authors: /equipe/:slug/news/
   taxonomies:
     administrator: administrators
     author: authors
