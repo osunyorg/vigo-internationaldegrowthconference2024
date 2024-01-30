@@ -117,4 +117,8 @@ items:
     target: "/gl/practical-information/can-we-help-you/"
     kind: page
     children: []
+- title: Simposio de Doutoramento
+  target: "/gl/the-conference/simposio-doutoramento/"
+  kind: page
+  children: []
 
