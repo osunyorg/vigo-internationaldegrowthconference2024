@@ -45,6 +45,10 @@ items:
     target: "/en/the-conference/keydates/"
     kind: page
     children: []
+  - title: PhD Symposium
+    target: "/en/the-conference/phd-symposium/"
+    kind: page
+    children: []
 - title: Beyond the Conference
   target: "/en/beyond-the-conference/"
   kind: page
@@ -113,8 +117,4 @@ items:
     target: "/en/practical-information/can-we-help-you/"
     kind: page
     children: []
-- title: PhD Symposium
-  target: "/en/the-conference/phd-symposium/"
-  kind: page
-  children: []
 
