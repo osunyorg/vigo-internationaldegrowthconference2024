@@ -5,6 +5,14 @@ en:
   contentDir: content/en
   languageCode: en
   languageName: English
+  params:
+    social:
+      x: >-
+        https://twitter.com/ESEE_Degrowth
+      linkedin: >-
+        https://www.linkedin.com/company/esee-degrowth2024/
+      instagram: >-
+        https://www.instagram.com/esee_degrowth/
   permalinks:
     posts: /practical-information/news-media-and-gallery/news/:year-:month-:day-:slug/
     organizations: /organisations/:slug/
@@ -23,6 +31,14 @@ gl:
   contentDir: content/gl
   languageCode: gl
   languageName: Galego
+  params:
+    social:
+      x: >-
+        https://twitter.com/ESEE_Degrowth
+      linkedin: >-
+        https://www.linkedin.com/company/esee-degrowth2024/
+      instagram: >-
+        https://www.instagram.com/esee_degrowth/
   permalinks:
     posts: /practical-information/news-media-and-gallery/news/:year-:month-:day-:slug/
     organizations: /organisations/:slug/
