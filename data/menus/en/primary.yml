@@ -37,16 +37,16 @@ items:
       target: "/en/the-conference/program/call-for-abstracts/tracks/"
       kind: page
       children: []
+  - title: PhD Symposium
+    target: "/en/the-conference/phd-symposium/"
+    kind: page
+    children: []
   - title: Keynote Speakers
     target: "/en/the-conference/about-the-conference/knote-speakers/"
     kind: page
     children: []
   - title: Keydates
     target: "/en/the-conference/keydates/"
-    kind: page
-    children: []
-  - title: PhD Symposium
-    target: "/en/the-conference/phd-symposium/"
     kind: page
     children: []
 - title: Beyond the Conference
