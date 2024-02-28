@@ -12,3 +12,5 @@ params:
   logo:
     header: "/assets/images/logo.svg"
     footer: "/assets/images/logo-white.svg"
+  debug:
+     productionUrl: "https://esee-degrowth2024.uvigo.gal"
