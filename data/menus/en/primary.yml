@@ -73,10 +73,6 @@ items:
     target: "/en/practical-information/registration/"
     kind: page
     children:
-    - title: The Conference (academic activities)
-      target: "/en/practical-information/registration/conference-academic-activities/"
-      kind: page
-      children: []
     - title: Beyond the Conference (extra-academic activities)
       target: "/en/practical-information/registration/extra-academic-activities/"
       kind: page
