@@ -10,6 +10,13 @@ h1
         .media
             img
                 mix-blend-mode: multiply
+
+.organizations__page 
+    .document-content 
+        .organization-logo 
+            img
+                mix-blend-mode: multiply
+
 body
     background: url(/assets/images/header-river.svg)
     background-repeat: no-repeat
@@ -30,13 +37,13 @@ body.full-width .block-image figure img
         max-width: 200px
         @include media-breakpoint-up(desktop)
             width: 200px
-            margin-left: $spacing3
-            margin-bottom: $spacing3
+            margin-left: $spacing-5
+            margin-bottom: $spacing-5
             display: inline-table !important
             vertical-align: middle
         @include media-breakpoint-down(desktop)
             margin-left: 0
-            margin-bottom: $spacing2
+            margin-bottom: $spacing-4
 
 footer#document-footer
     @include media-breakpoint-up(desktop)
@@ -44,7 +51,7 @@ footer#document-footer
             z-index: 1000
             position: fixed
             top: -5px
-            right: $spacing3
+            right: $spacing-5
             padding: 5px 5px 0
             display: flex
             margin-top: 0 !important
