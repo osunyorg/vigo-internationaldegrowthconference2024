@@ -72,11 +72,7 @@ items:
   - title: Registration
     target: "/en/practical-information/registration/"
     kind: page
-    children:
-    - title: Beyond the Conference (extra-academic activities)
-      target: "/en/practical-information/registration/extra-academic-activities/"
-      kind: page
-      children: []
+    children: []
   - title: Venue, travel and accomodation
     target: "/en/practical-information/venue-travel-and-accomodation/"
     kind: page
