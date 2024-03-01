@@ -78,7 +78,7 @@ items:
     kind: page
     children:
     - title: Nas actividades académicas (A Conferencia)
-      target: "/gl/practical-information/registration/conference-academic-activities/"
+      target: "/gl/practical-information/registration/academic-activities/"
       kind: page
       children: []
     - title: Nas actividades extra-académicas (Máis aló da Conferencia)
