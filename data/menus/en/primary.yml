@@ -86,7 +86,7 @@ items:
       kind: page
       children: []
     - title: Accomodation
-      target: "/en/practical-information/venue-travel-and-accomodation/accomodation/"
+      target: "/en/practical-information/accomodation/"
       kind: page
       children: []
   - title: News, media and gallery
