@@ -117,4 +117,8 @@ items:
   target: "/gl/practical-information/can-we-help-you/"
   kind: page
   children: []
+- title: Aloxamento
+  target: "/gl/practical-information/accomodation/"
+  kind: page
+  children: []
 
