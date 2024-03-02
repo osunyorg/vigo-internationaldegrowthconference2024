@@ -98,7 +98,7 @@ items:
       kind: page
       children: []
     - title: Aloxamento
-      target: "/gl/practical-information/venue-travel-and-accomodation/accomodation/"
+      target: "/gl/practical-information/accomodation/"
       kind: page
       children: []
   - title: Noticias, medios e galería
