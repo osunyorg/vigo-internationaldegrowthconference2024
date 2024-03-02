@@ -49,6 +49,10 @@ items:
     target: "/en/the-conference/keydates/"
     kind: page
     children: []
+- title: Accomodation
+  target: "/en/practical-information/accomodation/"
+  kind: page
+  children: []
 - title: Beyond the Conference
   target: "/en/beyond-the-conference/"
   kind: page
@@ -83,10 +87,6 @@ items:
       children: []
     - title: Travel to Pontevedra
       target: "/en/practical-information/venue-travel-and-accomodation/travel/"
-      kind: page
-      children: []
-    - title: Accomodation
-      target: "/en/practical-information/accomodation/"
       kind: page
       children: []
   - title: News, media and gallery
