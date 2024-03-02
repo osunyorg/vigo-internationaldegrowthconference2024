@@ -85,6 +85,10 @@ items:
       target: "/en/practical-information/venue-travel-and-accomodation/travel/"
       kind: page
       children: []
+    - title: Accomodation
+      target: "/en/practical-information/accomodation/"
+      kind: page
+      children: []
   - title: News, media and gallery
     target: "/en/practical-information/news-media-and-gallery/"
     kind: page
@@ -103,10 +107,6 @@ items:
       children: []
 - title: Can we help you?
   target: "/en/practical-information/can-we-help-you/"
-  kind: page
-  children: []
-- title: Accomodation
-  target: "/en/practical-information/accomodation/"
   kind: page
   children: []
 
