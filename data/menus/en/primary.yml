@@ -105,4 +105,8 @@ items:
   target: "/en/practical-information/can-we-help-you/"
   kind: page
   children: []
+- title: Accomodation
+  target: "/en/practical-information/venue-travel-and-accomodation/accomodationesee/"
+  kind: page
+  children: []
 
