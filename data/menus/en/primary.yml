@@ -86,7 +86,7 @@ items:
       kind: page
       children: []
     - title: Accomodation
-      target: "/en/practical-information/accomodation/"
+      target: "/en/practical-information/accomodationesee/"
       kind: page
       children: []
   - title: News, media and gallery
