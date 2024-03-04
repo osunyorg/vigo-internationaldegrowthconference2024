@@ -34,16 +34,23 @@ jobs:
       - name: Build
         run: yarn osuny build
 
+      # - name: FTP Deploy
+      #   uses: SamKirkland/FTP-Deploy-Action@v4.3.4
+      #   with:
+      #     server: ${{ secrets.FTP_HOSTNAME }}
+      #     username: ${{ secrets.FTP_USERNAME }}
+      #     password: ${{ secrets.FTP_PASSWORD }}
+      #     local-dir: ${{ secrets.FTP_LOCAL_DIR }}
+      #     server-dir: ${{ secrets.FTP_SERVER_DIR }}
+
       - name: SFTP Deploy
-        uses: SamKirkland/FTP-Deploy-Action@v4.3.4
+        uses: wlixcc/SFTP-Deploy-Action@v1.2.4
         with:
-          server: ${{ secrets.FTP_HOSTNAME }}
           username: ${{ secrets.FTP_USERNAME }}
+          server: ${{ secrets.FTP_HOSTNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
-          local-dir: ${{ secrets.FTP_LOCAL_DIR }}
-          server-dir: ${{ secrets.FTP_SERVER_DIR }}
-          protocol: ftps
-          port: 22
+          local_path: ${{ secrets.FTP_LOCAL_DIR }}
+          remote_path: ${{ secrets.FTP_SERVER_DIR }}
 
       - name: Notification Slack en cas d'échec
         uses: ravsamhq/notify-slack-action@2.3.0
