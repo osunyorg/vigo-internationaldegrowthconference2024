@@ -49,7 +49,7 @@ jobs:
           username: ${{ secrets.FTP_USERNAME }}
           server: ${{ secrets.FTP_HOSTNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
-          local_path: ${{ secrets.FTP_LOCAL_DIR }}
+          local_path: './public/*'
           remote_path: ${{ secrets.FTP_SERVER_DIR }}
           sftp_only: true
 
