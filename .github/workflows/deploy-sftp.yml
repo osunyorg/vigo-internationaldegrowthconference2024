@@ -42,6 +42,7 @@ jobs:
           password: ${{ secrets.FTP_PASSWORD }}
           local-dir: ${{ secrets.FTP_LOCAL_DIR }}
           server-dir: ${{ secrets.FTP_SERVER_DIR }}
+          protocol: ftps
 
       - name: Notification Slack en cas d'échec
         uses: ravsamhq/notify-slack-action@2.3.0
