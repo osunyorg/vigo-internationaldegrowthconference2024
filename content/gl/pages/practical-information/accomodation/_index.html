@@ -48,7 +48,7 @@ header_cta:
   label: 
   target: 
 contents_reading_time:
-  seconds: 32
+  seconds: 38
   text: >-
     1 minute
 contents:
@@ -108,6 +108,12 @@ contents:
 
   - kind: heading
     title: >-
+      No centro da cidade ou cercanos a Pontevedra
+    position: 0
+    rank: 2
+
+  - kind: heading
+    title: >-
       Hoteis
     position: 1
     rank: 2
@@ -127,11 +133,7 @@ contents:
       organizations:
         - slug: "accomodation-galicia-palace"
           external: false
-        - slug: "accomodation-hotel-candorgal"
-          external: false
         - slug: "accomodation-hotel-rias-bajasgal"
-          external: false
-        - slug: "accomodation-hotel-samargal"
           external: false
         - slug: "accomodation-hotel-gran-proagal"
           external: false
@@ -226,12 +228,21 @@ contents:
       organizations:
 
 
-
-  - kind: heading
+  - kind: block
+    template: organizations
     title: >-
-      Aluguer de autocaravanas
-    position: 6
-    rank: 2
+      
+    ranks:
+      self: false
+    data:
+      layout: grid
+      description: >-
+        
+
+      with_link: false
+      organizations:
+
+
   - kind: block
     template: organizations
     title: >-
@@ -250,7 +261,13 @@ contents:
 
   - kind: heading
     title: >-
-      Campings e cabanas
+      Aloxamentos máis distantes (noutros municipios próximos a Pontevedra)
+    position: 6
+    rank: 2
+
+  - kind: heading
+    title: >-
+      Hoteis
     position: 7
     rank: 2
   - kind: block
@@ -259,6 +276,7 @@ contents:
       
     ranks:
       self: false
+      children: 3
     data:
       layout: grid
       description: >-
@@ -266,8 +284,38 @@ contents:
 
       with_link: false
       organizations:
+        - slug: "accomodation-hotel-candorgal"
+          external: false
+        - slug: "accomodation-hotel-samargal"
+          external: false
+        - slug: "accomodation-hotel-gran-proagal"
+          external: false
 
 
+
+  - kind: heading
+    title: >-
+      Outro tipo de aloxamentos
+    position: 8
+    rank: 2
+
+  - kind: heading
+    title: >-
+      Aluguer de autocaravanas
+    position: 9
+    rank: 2
+
+  - kind: heading
+    title: >-
+      Campings e cabanas
+    position: 10
+    rank: 2
+
+  - kind: heading
+    title: >-
+      Residencias
+    position: 11
+    rank: 2
 
 
 ---
