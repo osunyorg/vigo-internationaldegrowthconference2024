@@ -109,4 +109,8 @@ items:
   target: "/en/practical-information/can-we-help-you/"
   kind: page
   children: []
+- title: Funding Open Call
+  target: "/en/practical-information/registration/academic-activities/funding-open-call/"
+  kind: page
+  children: []
 
