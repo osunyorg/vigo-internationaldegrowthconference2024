@@ -121,4 +121,8 @@ items:
   target: "/gl/practical-information/can-we-help-you/"
   kind: page
   children: []
+- title: Convocatoria Aberta de Financiamento
+  target: "/gl/practical-information/registration/academic-activities/funding-open-call/"
+  kind: page
+  children: []
 
