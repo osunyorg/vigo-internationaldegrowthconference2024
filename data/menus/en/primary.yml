@@ -117,4 +117,8 @@ items:
   target: "/en/practical-information/can-we-help-you/"
   kind: page
   children: []
+- title: For extra-academic activities (Beyond the Conference)
+  target: "/en/practical-information/registration/extra-academic-activities/"
+  kind: page
+  children: []
 
