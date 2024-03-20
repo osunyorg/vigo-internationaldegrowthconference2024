@@ -76,7 +76,11 @@ items:
     - title: For academic activities (The Conference)
       target: "/en/practical-information/registration/academic-activities/"
       kind: page
-      children: []
+      children:
+      - title: Funding Open Call
+        target: "/en/practical-information/registration/academic-activities/funding-open-call/"
+        kind: page
+        children: []
   - title: Venue, travel and accomodation
     target: "/en/practical-information/venue-travel-and-accomodation/"
     kind: page
@@ -111,10 +115,6 @@ items:
       children: []
 - title: Can we help you?
   target: "/en/practical-information/can-we-help-you/"
-  kind: page
-  children: []
-- title: Funding Open Call
-  target: "/en/practical-information/registration/academic-activities/funding-open-call/"
   kind: page
   children: []
 
