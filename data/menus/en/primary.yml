@@ -81,6 +81,10 @@ items:
         target: "/en/practical-information/registration/academic-activities/funding-open-call/"
         kind: page
         children: []
+    - title: For extra-academic activities (Beyond the Conference)
+      target: "/en/practical-information/registration/extra-academic-activities/"
+      kind: page
+      children: []
   - title: Venue, travel and accomodation
     target: "/en/practical-information/venue-travel-and-accomodation/"
     kind: page
@@ -115,10 +119,6 @@ items:
       children: []
 - title: Can we help you?
   target: "/en/practical-information/can-we-help-you/"
-  kind: page
-  children: []
-- title: For extra-academic activities (Beyond the Conference)
-  target: "/en/practical-information/registration/extra-academic-activities/"
   kind: page
   children: []
 
