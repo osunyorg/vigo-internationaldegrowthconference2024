@@ -81,14 +81,14 @@ items:
       target: "/gl/practical-information/registration/academic-activities/"
       kind: page
       children: []
+    - title: Convocatoria Aberta de Financiamento
+      target: "/gl/practical-information/registration/academic-activities/funding-open-call/"
+      kind: page
+      children: []
     - title: Nas actividades extra-académicas (Máis aló da Conferencia)
       target: "/gl/practical-information/registration/extra-academic-activities/"
       kind: page
       children: []
-  - title: Convocatoria Aberta de Financiamento
-    target: "/gl/practical-information/registration/academic-activities/funding-open-call/"
-    kind: page
-    children: []
   - title: Lugar de celebración, viaxe e aloxamento
     target: "/gl/practical-information/venue-travel-and-accomodation/"
     kind: page
