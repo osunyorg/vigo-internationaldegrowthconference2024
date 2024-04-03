@@ -57,6 +57,10 @@ items:
     target: "/gl/beyond-the-conference/beyond-the-conference-1/"
     kind: page
     children: []
+  - title: Primavera do Decrecemento
+    target: "/gl/beyond-the-conference/primavera-decrecemento/"
+    kind: page
+    children: []
   - title: "¡Falemos de Decrecemento!"
     target: "/gl/beyond-the-conference/lets-talk-about-degrowth/"
     kind: page
@@ -123,10 +127,6 @@ items:
       children: []
 - title: "¿Podémosche axudar?"
   target: "/gl/practical-information/can-we-help-you/"
-  kind: page
-  children: []
-- title: Primavera do Decrecemento
-  target: "/gl/beyond-the-conference/primavera-decrecemento/"
   kind: page
   children: []
 
