@@ -121,4 +121,8 @@ items:
   target: "/en/practical-information/can-we-help-you/"
   kind: page
   children: []
+- title: Degrowth Spring
+  target: "/en/beyond-the-conference/primavera-decrecemento/"
+  kind: page
+  children: []
 
