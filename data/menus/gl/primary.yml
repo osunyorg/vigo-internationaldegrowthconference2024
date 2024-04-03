@@ -125,4 +125,8 @@ items:
   target: "/gl/practical-information/can-we-help-you/"
   kind: page
   children: []
+- title: Primavera do Decrecemento
+  target: "/gl/beyond-the-conference/primavera-decrecemento/"
+  kind: page
+  children: []
 
