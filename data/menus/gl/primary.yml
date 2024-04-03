@@ -84,11 +84,7 @@ items:
     - title: Nas actividades académicas (A Conferencia)
       target: "/gl/practical-information/registration/academic-activities/"
       kind: page
-      children:
-      - title: Convocatoria Aberta de Financiamento
-        target: "/gl/practical-information/registration/academic-activities/funding-open-call/"
-        kind: page
-        children: []
+      children: []
     - title: Nas actividades extra-académicas (Máis aló da Conferencia)
       target: "/gl/practical-information/registration/extra-academic-activities/"
       kind: page
