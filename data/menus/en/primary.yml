@@ -80,11 +80,7 @@ items:
     - title: For academic activities (The Conference)
       target: "/en/practical-information/registration/academic-activities/"
       kind: page
-      children:
-      - title: Funding Open Call
-        target: "/en/practical-information/registration/academic-activities/funding-open-call/"
-        kind: page
-        children: []
+      children: []
     - title: For extra-academic activities (Beyond the Conference)
       target: "/en/practical-information/registration/extra-academic-activities/"
       kind: page
