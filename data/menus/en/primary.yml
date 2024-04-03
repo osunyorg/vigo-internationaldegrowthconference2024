@@ -57,6 +57,10 @@ items:
     target: "/en/beyond-the-conference/beyond-the-conference-1/"
     kind: page
     children: []
+  - title: Degrowth Spring
+    target: "/en/beyond-the-conference/primavera-decrecemento/"
+    kind: page
+    children: []
   - title: Let's talk about Degrowth!
     target: "/en/beyond-the-conference/lets-talk-about-degrowth/"
     kind: page
@@ -119,10 +123,6 @@ items:
       children: []
 - title: Can we help you?
   target: "/en/practical-information/can-we-help-you/"
-  kind: page
-  children: []
-- title: Degrowth Spring
-  target: "/en/beyond-the-conference/primavera-decrecemento/"
   kind: page
   children: []
 
