@@ -25,6 +25,10 @@ items:
     target: "/en/the-conference/program/"
     kind: page
     children:
+    - title: Tentative schedule
+      target: "/en/the-conference/program/tentative-schedule/"
+      kind: page
+      children: []
     - title: Call for abstracts
       target: "/en/the-conference/program/call-for-abstracts/"
       kind: page
@@ -35,10 +39,6 @@ items:
       children: []
     - title: Tracks and Open Special Sessions
       target: "/en/the-conference/program/call-for-abstracts/tracks/"
-      kind: page
-      children: []
-    - title: Tentative schedule
-      target: "/en/the-conference/program/tentative-schedule/"
       kind: page
       children: []
   - title: PhD Symposium
