@@ -29,16 +29,16 @@ items:
       target: "/en/the-conference/program/tentative-schedule/"
       kind: page
       children: []
-    - title: Call for abstracts
-      target: "/en/the-conference/program/call-for-abstracts/"
+    - title: Tracks and Open Special Sessions
+      target: "/en/the-conference/program/call-for-abstracts/tracks/"
       kind: page
       children: []
     - title: Type of sessions an contribution formats
       target: "/en/the-conference/program/session-formats/"
       kind: page
       children: []
-    - title: Tracks and Open Special Sessions
-      target: "/en/the-conference/program/call-for-abstracts/tracks/"
+    - title: Call for abstracts (closed)
+      target: "/en/the-conference/program/call-for-abstracts/"
       kind: page
       children: []
   - title: PhD Symposium
