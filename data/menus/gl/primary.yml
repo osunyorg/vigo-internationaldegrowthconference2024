@@ -37,6 +37,10 @@ items:
       target: "/gl/the-conference/program/call-for-proposals/tracks/"
       kind: page
       children: []
+    - title: Horario tentativo
+      target: "/gl/the-conference/program/tentative-schedule/"
+      kind: page
+      children: []
   - title: Simposio de Doutoramento
     target: "/gl/the-conference/simposio-doutoramento/"
     kind: page
