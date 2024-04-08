@@ -37,7 +37,7 @@ items:
       target: "/gl/the-conference/program/session-formats/"
       kind: page
       children: []
-    - title: Chamada para o envío de resumos
+    - title: Chamada para o envío de resumos - pechada
       target: "/gl/the-conference/program/call-for-proposals/"
       kind: page
       children: []
