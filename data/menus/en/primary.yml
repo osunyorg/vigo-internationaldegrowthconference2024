@@ -37,6 +37,10 @@ items:
       target: "/en/the-conference/program/call-for-abstracts/tracks/"
       kind: page
       children: []
+    - title: Tentative schedule
+      target: "/en/the-conference/program/tentative-schedule/"
+      kind: page
+      children: []
   - title: PhD Symposium
     target: "/en/the-conference/phd-symposium/"
     kind: page
