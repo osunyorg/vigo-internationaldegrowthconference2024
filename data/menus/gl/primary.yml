@@ -25,6 +25,10 @@ items:
     target: "/gl/the-conference/program/"
     kind: page
     children:
+    - title: Horario tentativo
+      target: "/gl/the-conference/program/tentative-schedule/"
+      kind: page
+      children: []
     - title: Chamada para o envío de resumos
       target: "/gl/the-conference/program/call-for-proposals/"
       kind: page
@@ -35,10 +39,6 @@ items:
       children: []
     - title: Bloques temáticos e Sesións Especiais Abertas
       target: "/gl/the-conference/program/call-for-proposals/tracks/"
-      kind: page
-      children: []
-    - title: Horario tentativo
-      target: "/gl/the-conference/program/tentative-schedule/"
       kind: page
       children: []
   - title: Simposio de Doutoramento
