@@ -17,7 +17,9 @@ en:
   permalinks:
     posts: /practical-information/news-media-and-gallery/news/:year-:month-:day-:slug/
     organizations: /organisations/:slug/
+    organizations_categories: /organisations/:slug/
     persons: /team/:slug/
+    persons_categories: /team/:slug/
     authors: /team/:slug/news/
   taxonomies:
     administrator: administrators
@@ -25,6 +27,8 @@ en:
     diploma: diplomas
     events_category: events_categories
     location: locations
+    organizations_category: organizations_categories
+    persons_category: persons_categories
     posts_category: posts_categories
     projects_category: projects_categories
     researcher: researchers
@@ -47,7 +51,9 @@ gl:
   permalinks:
     posts: /practical-information/news-media-and-gallery/news/:year-:month-:day-:slug/
     organizations: /organisations/:slug/
+    organizations_categories: /organisations/:slug/
     persons: /equipe/:slug/
+    persons_categories: /equipe/:slug/
     authors: /equipe/:slug/news/
   taxonomies:
     administrator: administrators
@@ -55,6 +61,8 @@ gl:
     diploma: diplomas
     events_category: events_categories
     location: locations
+    organizations_category: organizations_categories
+    persons_category: persons_categories
     posts_category: posts_categories
     projects_category: projects_categories
     researcher: researchers
