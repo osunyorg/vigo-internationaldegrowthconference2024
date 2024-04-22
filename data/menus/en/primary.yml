@@ -60,7 +60,11 @@ items:
   - title: Beyond the Conference
     target: "/en/beyond-the-conference/beyond-the-conference-1/"
     kind: page
-    children: []
+    children:
+    - title: 22 June - Session with the Brigadas Deseucaliptizadoras
+      target: "/en/beyond-the-conference/22-june/"
+      kind: page
+      children: []
   - title: Degrowth Spring
     target: "/en/beyond-the-conference/primavera-decrecemento/"
     kind: page
