@@ -60,7 +60,11 @@ items:
   - title: Máis aló da Conferencia
     target: "/gl/beyond-the-conference/beyond-the-conference-1/"
     kind: page
-    children: []
+    children:
+    - title: 22 de xuño - Sesión coas Brigadas Deseucaliptizadoras
+      target: "/gl/beyond-the-conference/22-june/"
+      kind: page
+      children: []
   - title: Primavera do Decrecemento
     target: "/gl/beyond-the-conference/primavera-decrecemento/"
     kind: page
