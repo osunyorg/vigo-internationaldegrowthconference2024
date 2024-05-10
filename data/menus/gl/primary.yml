@@ -25,6 +25,10 @@ items:
     target: "/gl/the-conference/program/"
     kind: page
     children:
+    - title: Programa da conferencia
+      target: "/gl/the-conference/program/conference-programme/"
+      kind: page
+      children: []
     - title: Horario tentativo
       target: "/gl/the-conference/program/tentative-schedule/"
       kind: page
@@ -39,10 +43,6 @@ items:
       children: []
     - title: Chamada para o envío de resumos (pechada)
       target: "/gl/the-conference/program/call-for-proposals/"
-      kind: page
-      children: []
-    - title: Programa da conferencia
-      target: "/gl/the-conference/program/conference-programme/"
       kind: page
       children: []
   - title: Simposio de Doutoramento
