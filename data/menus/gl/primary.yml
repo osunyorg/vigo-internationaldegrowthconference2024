@@ -41,6 +41,10 @@ items:
       target: "/gl/the-conference/program/call-for-proposals/"
       kind: page
       children: []
+    - title: Programa da conferencia
+      target: "/gl/the-conference/program/conference-programme/"
+      kind: page
+      children: []
   - title: Simposio de Doutoramento
     target: "/gl/the-conference/simposio-doutoramento/"
     kind: page
