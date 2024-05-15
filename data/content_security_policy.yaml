@@ -11,3 +11,4 @@ allowed_domains:
   - "www.youtube.com"
   - "img.youtube.com"
   - "youtu.be"
+  - "www.google.com"
