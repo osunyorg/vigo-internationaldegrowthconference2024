@@ -77,6 +77,10 @@ items:
       target: "/gl/beyond-the-conference/espazo-xove/postgrowth-sa-pontevedra/"
       kind: page
       children: []
+  - title: Programa social da Conferencia
+    target: "/gl/beyond-the-conference/beyond-the-conference-1/"
+    kind: page
+    children: []
 - title: Información práctica
   target: "/gl/practical-information/"
   kind: page
