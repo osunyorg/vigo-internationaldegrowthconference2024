@@ -61,14 +61,14 @@ items:
   target: "/en/beyond-the-conference/"
   kind: page
   children:
+  - title: Conference social programme
+    target: "/en/beyond-the-conference/beyond-the-conference-1/"
+    kind: page
+    children: []
   - title: Degrowth Spring
     target: "/en/beyond-the-conference/primavera-decrecemento/"
     kind: page
-    children:
-    - title: Conference social programme
-      target: "/en/beyond-the-conference/beyond-the-conference-1/"
-      kind: page
-      children: []
+    children: []
   - title: Let's talk about Degrowth!
     target: "/en/beyond-the-conference/lets-talk-about-degrowth/"
     kind: page
