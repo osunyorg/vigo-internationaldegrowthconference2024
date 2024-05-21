@@ -61,6 +61,10 @@ items:
   target: "/gl/beyond-the-conference/"
   kind: page
   children:
+  - title: Programa social da Conferencia
+    target: "/gl/beyond-the-conference/beyond-the-conference-1/"
+    kind: page
+    children: []
   - title: Primavera do Decrecemento
     target: "/gl/beyond-the-conference/primavera-decrecemento/"
     kind: page
@@ -77,10 +81,6 @@ items:
       target: "/gl/beyond-the-conference/espazo-xove/postgrowth-sa-pontevedra/"
       kind: page
       children: []
-  - title: Programa social da Conferencia
-    target: "/gl/beyond-the-conference/beyond-the-conference-1/"
-    kind: page
-    children: []
 - title: Información práctica
   target: "/gl/practical-information/"
   kind: page
