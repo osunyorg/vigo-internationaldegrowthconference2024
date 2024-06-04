@@ -57,6 +57,10 @@ items:
     target: "/gl/the-conference/about-the-conference/knote-speakers/"
     kind: page
     children: []
+  - title: Diálogos plenarios
+    target: "/gl/the-conference/program/plenary-dialogues/"
+    kind: page
+    children: []
 - title: Máis aló da Conferencia
   target: "/gl/beyond-the-conference/"
   kind: page
