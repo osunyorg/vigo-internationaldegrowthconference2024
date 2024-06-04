@@ -57,6 +57,10 @@ items:
     target: "/en/the-conference/about-the-conference/knote-speakers/"
     kind: page
     children: []
+  - title: Plenary Dialogues
+    target: "/en/the-conference/program/plenary-dialogues/"
+    kind: page
+    children: []
 - title: Beyond the Conference
   target: "/en/beyond-the-conference/"
   kind: page
