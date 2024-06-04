@@ -21,6 +21,10 @@ items:
       target: "/gl/the-conference/about-the-conference/principles/"
       kind: page
       children: []
+    - title: Datas clave
+      target: "/gl/the-conference/keydates/"
+      kind: page
+      children: []
   - title: Programa
     target: "/gl/the-conference/program/"
     kind: page
@@ -51,10 +55,6 @@ items:
     children: []
   - title: Relatoras/es principais
     target: "/gl/the-conference/about-the-conference/knote-speakers/"
-    kind: page
-    children: []
-  - title: Datas clave
-    target: "/gl/the-conference/keydates/"
     kind: page
     children: []
 - title: Máis aló da Conferencia
