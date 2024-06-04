@@ -21,10 +21,10 @@ items:
       target: "/en/the-conference/about-the-conference/principles/"
       kind: page
       children: []
-  - title: Keydates
-    target: "/en/the-conference/keydates/"
-    kind: page
-    children: []
+    - title: Keydates
+      target: "/en/the-conference/keydates/"
+      kind: page
+      children: []
   - title: Program
     target: "/en/the-conference/program/"
     kind: page
