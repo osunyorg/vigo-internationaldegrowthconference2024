@@ -53,10 +53,6 @@ items:
     target: "/gl/the-conference/simposio-doutoramento/"
     kind: page
     children: []
-  - title: Relatoras/es principais
-    target: "/gl/the-conference/about-the-conference/knote-speakers/"
-    kind: page
-    children: []
   - title: Diálogos plenarios
     target: "/gl/the-conference/program/plenary-dialogues/"
     kind: page
