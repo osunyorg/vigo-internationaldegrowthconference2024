@@ -17,9 +17,9 @@ en:
   permalinks:
     posts: /practical-information/news-media-and-gallery/news/:year-:month-:day-:slug/
     organizations: /organisations/:slug/
-    organizations_categories: /organisations/:slug/
+    organizations_categories: /organisations/categories/:slug/
     persons: /team/:slug/
-    persons_categories: /team/:slug/
+    persons_categories: /team/categories/:slug/
     authors: /team/:slug/news/
   taxonomies:
     administrator: administrators
@@ -51,9 +51,9 @@ gl:
   permalinks:
     posts: /practical-information/news-media-and-gallery/news/:year-:month-:day-:slug/
     organizations: /organisations/:slug/
-    organizations_categories: /organisations/:slug/
+    organizations_categories: /organisations/categories/:slug/
     persons: /equipe/:slug/
-    persons_categories: /equipe/:slug/
+    persons_categories: /equipe/categories/:slug/
     authors: /equipe/:slug/news/
   taxonomies:
     administrator: administrators
