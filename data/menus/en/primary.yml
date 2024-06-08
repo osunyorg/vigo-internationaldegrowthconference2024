@@ -33,6 +33,10 @@ items:
       target: "/en/the-conference/program/conference-programme/"
       kind: page
       children: []
+    - title: Opening Session
+      target: "/en/the-conference/program/opening-session/"
+      kind: page
+      children: []
     - title: Tentative schedule
       target: "/en/the-conference/program/tentative-schedule/"
       kind: page
@@ -47,10 +51,6 @@ items:
       children: []
     - title: Call for abstracts (closed)
       target: "/en/the-conference/program/call-for-abstracts/"
-      kind: page
-      children: []
-    - title: Opening Session
-      target: "/en/the-conference/program/opening-session/"
       kind: page
       children: []
   - title: PhD Symposium
