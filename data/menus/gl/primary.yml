@@ -129,4 +129,8 @@ items:
   target: "/gl/practical-information/can-we-help-you/"
   kind: page
   children: []
+- title: Sesión de Apertura
+  target: "/gl/the-conference/program/opening-session/"
+  kind: page
+  children: []
 
