@@ -49,16 +49,16 @@ items:
       target: "/en/the-conference/program/call-for-abstracts/"
       kind: page
       children: []
-  - title: PhD Symposium
-    target: "/en/the-conference/phd-symposium/"
-    kind: page
-    children: []
   - title: Opening Session
     target: "/en/the-conference/program/opening-session/"
     kind: page
     children: []
   - title: Plenary Dialogues
     target: "/en/the-conference/program/plenary-dialogues/"
+    kind: page
+    children: []
+  - title: PhD Symposium
+    target: "/en/the-conference/phd-symposium/"
     kind: page
     children: []
 - title: Beyond the Conference
