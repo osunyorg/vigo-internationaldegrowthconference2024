@@ -53,12 +53,12 @@ items:
     target: "/gl/the-conference/program/opening-session/"
     kind: page
     children: []
-  - title: Simposio de Doutoramento
-    target: "/gl/the-conference/simposio-doutoramento/"
-    kind: page
-    children: []
   - title: Diálogos plenarios
     target: "/gl/the-conference/program/plenary-dialogues/"
+    kind: page
+    children: []
+  - title: Simposio de Doutoramento
+    target: "/gl/the-conference/simposio-doutoramento/"
     kind: page
     children: []
 - title: Máis aló da Conferencia
