@@ -33,10 +33,6 @@ items:
       target: "/en/the-conference/program/conference-programme/"
       kind: page
       children: []
-    - title: Opening Session
-      target: "/en/the-conference/program/opening-session/"
-      kind: page
-      children: []
     - title: Tentative schedule
       target: "/en/the-conference/program/tentative-schedule/"
       kind: page
@@ -55,6 +51,10 @@ items:
       children: []
   - title: PhD Symposium
     target: "/en/the-conference/phd-symposium/"
+    kind: page
+    children: []
+  - title: Opening Session
+    target: "/en/the-conference/program/opening-session/"
     kind: page
     children: []
   - title: Plenary Dialogues
