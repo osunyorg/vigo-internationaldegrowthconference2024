@@ -25,6 +25,10 @@ items:
       target: "/gl/the-conference/keydates/"
       kind: page
       children: []
+    - title: Información para participantes (so en inglés)
+      target: "/gl/the-conference/information-for-participants/"
+      kind: page
+      children: []
   - title: Programa
     target: "/gl/the-conference/program/"
     kind: page
