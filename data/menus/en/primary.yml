@@ -25,6 +25,10 @@ items:
       target: "/en/the-conference/keydates/"
       kind: page
       children: []
+    - title: Information for participants
+      target: "/en/the-conference/information-for-participants/"
+      kind: page
+      children: []
   - title: Program
     target: "/en/the-conference/program/"
     kind: page
