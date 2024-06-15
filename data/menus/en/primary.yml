@@ -53,6 +53,10 @@ items:
       target: "/en/the-conference/program/call-for-abstracts/"
       kind: page
       children: []
+    - title: Posters
+      target: "/en/the-conference/program/posters/"
+      kind: page
+      children: []
   - title: Opening Session
     target: "/en/the-conference/program/opening-session/"
     kind: page
