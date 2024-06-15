@@ -53,6 +53,10 @@ items:
       target: "/gl/the-conference/program/call-for-proposals/"
       kind: page
       children: []
+    - title: Posters
+      target: "/gl/the-conference/program/posters/"
+      kind: page
+      children: []
   - title: Sesión de Apertura
     target: "/gl/the-conference/program/opening-session/"
     kind: page
