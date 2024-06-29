@@ -14,3 +14,6 @@ params:
     footer: "/assets/images/logo-white.svg"
   debug:
      productionUrl: "https://esee-degrowth2024.uvigo.gal"
+  persons:
+    single:
+      backlinks: true
