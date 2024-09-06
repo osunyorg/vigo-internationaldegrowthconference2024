@@ -47,7 +47,7 @@ body.full-width .block-image figure img
 
 footer#document-footer
     @include media-breakpoint-up(desktop)
-        .site-links
+        .footer-social.site-links
             z-index: 1000
             position: fixed
             top: -5px
@@ -57,7 +57,8 @@ footer#document-footer
             margin-top: 0 !important
             background: $color-accent
             border-radius: 5px
-            li
+            li,
+            li + li
                 margin: 5px 15px
                 &::after
                     padding-left: 2px !important
