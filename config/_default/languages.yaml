@@ -16,6 +16,7 @@ en:
         https://www.instagram.com/esee_degrowth/
   permalinks:
     posts: /practical-information/news-media-and-gallery/news/:year-:month-:day-:slug/
+    posts_categories: /practical-information/news-media-and-gallery/news/:slug/
     organizations: /organisations/:slug/
     organizations_categories: /organisations/categories/:slug/
     persons: /team/:slug/
@@ -50,6 +51,7 @@ gl:
         https://www.instagram.com/esee_degrowth/
   permalinks:
     posts: /practical-information/news-media-and-gallery/news/:year-:month-:day-:slug/
+    posts_categories: /practical-information/news-media-and-gallery/news/:slug/
     organizations: /organisations/:slug/
     organizations_categories: /organisations/categories/:slug/
     persons: /equipe/:slug/
