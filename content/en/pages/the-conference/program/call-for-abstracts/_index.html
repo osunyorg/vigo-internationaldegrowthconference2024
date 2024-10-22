@@ -69,6 +69,8 @@ contents:
     template: chapter
     title: >-
       
+    slug: >-
+      
     ranks:
       self: false
     data:
@@ -88,15 +90,23 @@ contents:
 
 
 
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Submit a proposal
-    slug: "submit-a-proposal"
-    position: 1
-    rank: 2
+    slug: >-
+      submit-a-proposal
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: chapter
     title: >-
+      
+    slug: >-
       
     ranks:
       self: false
@@ -121,6 +131,8 @@ contents:
     template: pages
     title: >-
       
+    slug: >-
+      
     ranks:
       self: false
       children: 3
@@ -136,7 +148,6 @@ contents:
           slug: "tracks"
           file: "pages/the-conference/program/call-for-abstracts/tracks/_index.html"
           external: false
-
 
 
 

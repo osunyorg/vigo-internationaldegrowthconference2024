@@ -66,6 +66,8 @@ contents:
     template: chapter
     title: >-
       
+    slug: >-
+      
     ranks:
       self: false
     data:
@@ -85,15 +87,23 @@ contents:
 
 
 
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Enviar unha proposta
-    slug: "enviar-unha-proposta"
-    position: 1
-    rank: 2
+    slug: >-
+      enviar-unha-proposta
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: chapter
     title: >-
+      
+    slug: >-
       
     ranks:
       self: false
@@ -118,6 +128,8 @@ contents:
     template: pages
     title: >-
       
+    slug: >-
+      
     ranks:
       self: false
       children: 3
@@ -133,7 +145,6 @@ contents:
           slug: "tracks"
           file: "pages/the-conference/program/call-for-proposals/tracks/_index.html"
           external: false
-
 
 
 

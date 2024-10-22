@@ -128,7 +128,7 @@ header_cta:
   target: ""
   external: false
 contents_reading_time:
-  seconds: 100
+  seconds: 101
   text: >-
     2 minutes
 contents:
@@ -136,6 +136,8 @@ contents:
     template: posts
     title: >-
       Lastest news
+    slug: >-
+      lastest-news
     ranks:
       self: 2
       children: 3
@@ -162,6 +164,8 @@ contents:
     template: call_to_action
     title: >-
       UPCOMING BROADCAST
+    slug: >-
+      upcoming-broadcast
     ranks:
       self: 2
     data:
@@ -191,6 +195,8 @@ contents:
     template: chapter
     title: >-
       
+    slug: >-
+      
     ranks:
       self: false
     data:
@@ -210,15 +216,23 @@ contents:
 
 
 
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Promoters of the conference
-    slug: "promoters-of-the-conference"
-    position: 1
-    rank: 2
+    slug: >-
+      promoters-of-the-conference
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: organizations
     title: >-
+      
+    slug: >-
       
     ranks:
       self: false
@@ -241,16 +255,23 @@ contents:
         - slug: "research-and-degrowth"
 
 
-
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Do you like our logo?
-    slug: "do-you-like-our-logo"
-    position: 2
-    rank: 2
+    slug: >-
+      do-you-like-our-logo
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: image
     title: >-
+      
+    slug: >-
       
     ranks:
       self: false
@@ -267,7 +288,6 @@ contents:
 
         credit: >-
           <p><a href="https://jessparker.myportfolio.com/" target="_blank">Jess Parker<span class="sr-only"> - external link</span></a></p>
-
 
 
 
