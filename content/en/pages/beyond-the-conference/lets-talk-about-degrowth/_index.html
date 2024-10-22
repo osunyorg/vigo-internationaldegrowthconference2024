@@ -53,13 +53,15 @@ header_cta:
   target: ""
   external: false
 contents_reading_time:
-  seconds: 99
+  seconds: 100
   text: >-
     2 minutes
 contents:
   - kind: block
     template: chapter
     title: >-
+      
+    slug: >-
       
     ranks:
       self: false
@@ -80,16 +82,24 @@ contents:
 
 
 
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Links of interest
-    slug: "links-of-interest"
-    position: 1
-    rank: 2
+    slug: >-
+      links-of-interest
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: chapter
     title: >-
       Links of interest
+    slug: >-
+      links-of-interest
     ranks:
       self: 3
     data:
@@ -106,7 +116,6 @@ contents:
 
       credit: >-
         
-
 
 
 
