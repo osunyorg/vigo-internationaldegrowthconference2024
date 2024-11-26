@@ -5,6 +5,7 @@ items:
   target: "/gl/"
   kind: page
   children: []
+  file: content/gl/_index.html
 - title: A Conferencia
   target: "/gl/the-conference/"
   kind: page
@@ -17,18 +18,23 @@ items:
       target: "/gl/the-conference/about-the-conference/organizers/"
       kind: page
       children: []
+      file: content/gl/pages/the-conference/about-the-conference/organizers/_index.html
     - title: Principios
       target: "/gl/the-conference/about-the-conference/principles/"
       kind: page
       children: []
+      file: content/gl/pages/the-conference/about-the-conference/principles/_index.html
     - title: Datas clave
       target: "/gl/the-conference/keydates/"
       kind: page
       children: []
+      file: content/gl/pages/the-conference/keydates/_index.html
     - title: Información para participantes (so en inglés)
       target: "/gl/the-conference/information-for-participants/"
       kind: page
       children: []
+      file: content/gl/pages/the-conference/information-for-participants/_index.html
+    file: content/gl/pages/the-conference/about-the-conference/_index.html
   - title: Programa
     target: "/gl/the-conference/program/"
     kind: page
@@ -37,38 +43,49 @@ items:
       target: "/gl/the-conference/program/conference-programme/"
       kind: page
       children: []
+      file: content/gl/pages/the-conference/program/conference-programme/_index.html
     - title: Horario tentativo
       target: "/gl/the-conference/program/tentative-schedule/"
       kind: page
       children: []
+      file: content/gl/pages/the-conference/program/tentative-schedule/_index.html
     - title: Bloques temáticos e Sesións Especiais Abertas
       target: "/gl/the-conference/program/call-for-proposals/tracks/"
       kind: page
       children: []
+      file: content/gl/pages/the-conference/program/call-for-proposals/tracks/_index.html
     - title: Tipo de sesións e formatos das contribucións
       target: "/gl/the-conference/program/session-formats/"
       kind: page
       children: []
+      file: content/gl/pages/the-conference/program/session-formats/_index.html
     - title: Chamada para o envío de resumos (pechada)
       target: "/gl/the-conference/program/call-for-proposals/"
       kind: page
       children: []
+      file: content/gl/pages/the-conference/program/call-for-proposals/_index.html
     - title: Posters
       target: "/gl/the-conference/program/posters/"
       kind: page
       children: []
+      file: content/gl/pages/the-conference/program/posters/_index.html
+    file: content/gl/pages/the-conference/program/_index.html
   - title: Sesión de Apertura
     target: "/gl/the-conference/program/opening-session/"
     kind: page
     children: []
+    file: content/gl/pages/the-conference/program/opening-session/_index.html
   - title: Diálogos plenarios
     target: "/gl/the-conference/program/plenary-dialogues/"
     kind: page
     children: []
+    file: content/gl/pages/the-conference/program/plenary-dialogues/_index.html
   - title: Simposio de Doutoramento
     target: "/gl/the-conference/simposio-doutoramento/"
     kind: page
     children: []
+    file: content/gl/pages/the-conference/simposio-doutoramento/_index.html
+  file: content/gl/pages/the-conference/_index.html
 - title: Máis aló da Conferencia
   target: "/gl/beyond-the-conference/"
   kind: page
@@ -77,14 +94,17 @@ items:
     target: "/gl/beyond-the-conference/beyond-the-conference-1/"
     kind: page
     children: []
+    file: content/gl/pages/beyond-the-conference/beyond-the-conference-1/_index.html
   - title: Primavera do Decrecemento
     target: "/gl/beyond-the-conference/primavera-decrecemento/"
     kind: page
     children: []
+    file: content/gl/pages/beyond-the-conference/primavera-decrecemento/_index.html
   - title: "¡Falemos de Decrecemento!"
     target: "/gl/beyond-the-conference/lets-talk-about-degrowth/"
     kind: page
     children: []
+    file: content/gl/pages/beyond-the-conference/lets-talk-about-degrowth/_index.html
   - title: Espazo Xove (Youth Space)
     target: "/gl/beyond-the-conference/espazo-xove/"
     kind: page
@@ -93,6 +113,9 @@ items:
       target: "/gl/beyond-the-conference/espazo-xove/postgrowth-sa-pontevedra/"
       kind: page
       children: []
+      file: content/gl/pages/beyond-the-conference/espazo-xove/postgrowth-sa-pontevedra/_index.html
+    file: content/gl/pages/beyond-the-conference/espazo-xove/_index.html
+  file: content/gl/pages/beyond-the-conference/_index.html
 - title: Información práctica
   target: "/gl/practical-information/"
   kind: page
@@ -105,10 +128,13 @@ items:
       target: "/gl/practical-information/registration/academic-activities/"
       kind: page
       children: []
+      file: content/gl/pages/practical-information/registration/academic-activities/_index.html
     - title: Nas actividades extra-académicas (Máis aló da Conferencia)
       target: "/gl/practical-information/registration/extra-academic-activities/"
       kind: page
       children: []
+      file: content/gl/pages/practical-information/registration/extra-academic-activities/_index.html
+    file: content/gl/pages/practical-information/registration/_index.html
   - title: Lugar de celebración, viaxe e aloxamento
     target: "/gl/practical-information/venue-travel-and-accomodation/"
     kind: page
@@ -117,14 +143,18 @@ items:
       target: "/gl/practical-information/venue-travel-and-accomodation/venue/"
       kind: page
       children: []
+      file: content/gl/pages/practical-information/venue-travel-and-accomodation/venue/_index.html
     - title: Viaxar a Pontevedra
       target: "/gl/practical-information/venue-travel-and-accomodation/travel/"
       kind: page
       children: []
+      file: content/gl/pages/practical-information/venue-travel-and-accomodation/travel/_index.html
     - title: Aloxamento
       target: "/gl/practical-information/venue-travel-and-accomodation/accomodation/"
       kind: page
       children: []
+      file: content/gl/pages/practical-information/venue-travel-and-accomodation/accomodation/_index.html
+    file: content/gl/pages/practical-information/venue-travel-and-accomodation/_index.html
   - title: Noticias, medios e galería
     target: "/gl/practical-information/news-media-and-gallery/"
     kind: page
@@ -133,12 +163,17 @@ items:
       target: "/gl/practical-information/news-media-and-gallery/news/"
       kind: page
       children: []
+      file: content/gl/posts/_index.html
     - title: Galería
       target: "/gl/practical-information/news-media-and-gallery/gallery/"
       kind: page
       children: []
+      file: content/gl/pages/practical-information/news-media-and-gallery/gallery/_index.html
+    file: content/gl/pages/practical-information/news-media-and-gallery/_index.html
+  file: content/gl/pages/practical-information/_index.html
 - title: "¿Podémosche axudar?"
   target: "/gl/practical-information/can-we-help-you/"
   kind: page
   children: []
+  file: content/gl/pages/practical-information/can-we-help-you/_index.html
 

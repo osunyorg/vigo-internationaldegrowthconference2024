@@ -5,6 +5,7 @@ items:
   target: "/en/"
   kind: page
   children: []
+  file: content/en/_index.html
 - title: The Conference
   target: "/en/the-conference/"
   kind: page
@@ -17,18 +18,23 @@ items:
       target: "/en/the-conference/about-the-conference/organizers/"
       kind: page
       children: []
+      file: content/en/pages/the-conference/about-the-conference/organizers/_index.html
     - title: Principles
       target: "/en/the-conference/about-the-conference/principles/"
       kind: page
       children: []
+      file: content/en/pages/the-conference/about-the-conference/principles/_index.html
     - title: Keydates
       target: "/en/the-conference/keydates/"
       kind: page
       children: []
+      file: content/en/pages/the-conference/keydates/_index.html
     - title: Information for participants
       target: "/en/the-conference/information-for-participants/"
       kind: page
       children: []
+      file: content/en/pages/the-conference/information-for-participants/_index.html
+    file: content/en/pages/the-conference/about-the-conference/_index.html
   - title: Program
     target: "/en/the-conference/program/"
     kind: page
@@ -37,38 +43,49 @@ items:
       target: "/en/the-conference/program/conference-programme/"
       kind: page
       children: []
+      file: content/en/pages/the-conference/program/conference-programme/_index.html
     - title: Tentative schedule
       target: "/en/the-conference/program/tentative-schedule/"
       kind: page
       children: []
+      file: content/en/pages/the-conference/program/tentative-schedule/_index.html
     - title: Tracks and Open Special Sessions
       target: "/en/the-conference/program/call-for-abstracts/tracks/"
       kind: page
       children: []
+      file: content/en/pages/the-conference/program/call-for-abstracts/tracks/_index.html
     - title: Type of sessions an contribution formats
       target: "/en/the-conference/program/session-formats/"
       kind: page
       children: []
+      file: content/en/pages/the-conference/program/session-formats/_index.html
     - title: Call for abstracts (closed)
       target: "/en/the-conference/program/call-for-abstracts/"
       kind: page
       children: []
+      file: content/en/pages/the-conference/program/call-for-abstracts/_index.html
     - title: Posters
       target: "/en/the-conference/program/posters/"
       kind: page
       children: []
+      file: content/en/pages/the-conference/program/posters/_index.html
+    file: content/en/pages/the-conference/program/_index.html
   - title: Opening Session
     target: "/en/the-conference/program/opening-session/"
     kind: page
     children: []
+    file: content/en/pages/the-conference/program/opening-session/_index.html
   - title: Plenary Dialogues
     target: "/en/the-conference/program/plenary-dialogues/"
     kind: page
     children: []
+    file: content/en/pages/the-conference/program/plenary-dialogues/_index.html
   - title: PhD Symposium
     target: "/en/the-conference/phd-symposium/"
     kind: page
     children: []
+    file: content/en/pages/the-conference/phd-symposium/_index.html
+  file: content/en/pages/the-conference/_index.html
 - title: Beyond the Conference
   target: "/en/beyond-the-conference/"
   kind: page
@@ -77,18 +94,23 @@ items:
     target: "/en/beyond-the-conference/beyond-the-conference-1/"
     kind: page
     children: []
+    file: content/en/pages/beyond-the-conference/beyond-the-conference-1/_index.html
   - title: Degrowth Spring
     target: "/en/beyond-the-conference/primavera-decrecemento/"
     kind: page
     children: []
+    file: content/en/pages/beyond-the-conference/primavera-decrecemento/_index.html
   - title: Let's talk about Degrowth!
     target: "/en/beyond-the-conference/lets-talk-about-degrowth/"
     kind: page
     children: []
+    file: content/en/pages/beyond-the-conference/lets-talk-about-degrowth/_index.html
   - title: Espazo Xove
     target: "/en/beyond-the-conference/espazo-xove/"
     kind: page
     children: []
+    file: content/en/pages/beyond-the-conference/espazo-xove/_index.html
+  file: content/en/pages/beyond-the-conference/_index.html
 - title: Practical information
   target: ''
   kind: blank
@@ -101,10 +123,13 @@ items:
       target: "/en/practical-information/registration/academic-activities/"
       kind: page
       children: []
+      file: content/en/pages/practical-information/registration/academic-activities/_index.html
     - title: For extra-academic activities (Beyond the Conference)
       target: "/en/practical-information/registration/extra-academic-activities/"
       kind: page
       children: []
+      file: content/en/pages/practical-information/registration/extra-academic-activities/_index.html
+    file: content/en/pages/practical-information/registration/_index.html
   - title: Venue, travel and accomodation
     target: "/en/practical-information/venue-travel-and-accomodation/"
     kind: page
@@ -113,14 +138,18 @@ items:
       target: "/en/practical-information/venue-travel-and-accomodation/venue/"
       kind: page
       children: []
+      file: content/en/pages/practical-information/venue-travel-and-accomodation/venue/_index.html
     - title: Travel to Pontevedra
       target: "/en/practical-information/venue-travel-and-accomodation/travel/"
       kind: page
       children: []
+      file: content/en/pages/practical-information/venue-travel-and-accomodation/travel/_index.html
     - title: Accomodation
       target: "/en/practical-information/venue-travel-and-accomodation/accomodation/"
       kind: page
       children: []
+      file: content/en/pages/practical-information/venue-travel-and-accomodation/accomodation/_index.html
+    file: content/en/pages/practical-information/venue-travel-and-accomodation/_index.html
   - title: News, media and gallery
     target: "/en/practical-information/news-media-and-gallery/"
     kind: page
@@ -129,12 +158,16 @@ items:
       target: "/en/practical-information/news-media-and-gallery/news/"
       kind: page
       children: []
+      file: content/en/posts/_index.html
     - title: Gallery
       target: "/en/practical-information/news-media-and-gallery/gallery/"
       kind: page
       children: []
+      file: content/en/pages/practical-information/news-media-and-gallery/gallery/_index.html
+    file: content/en/pages/practical-information/news-media-and-gallery/_index.html
 - title: Can we help you?
   target: "/en/practical-information/can-we-help-you/"
   kind: page
   children: []
+  file: content/en/pages/practical-information/can-we-help-you/_index.html
 

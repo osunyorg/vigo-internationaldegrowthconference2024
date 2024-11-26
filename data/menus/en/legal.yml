@@ -5,4 +5,5 @@ items:
   target: "/en/legal/"
   kind: page
   children: []
+  file: content/en/pages/legal/_index.html
 
