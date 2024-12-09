@@ -7,13 +7,24 @@ en:
   languageCode: en
   languageName: English
   params:
-    social:
-      x: >-
-        https://twitter.com/ESEE_Degrowth
-      linkedin: >-
-        https://www.linkedin.com/company/esee-degrowth2024/
-      instagram: >-
-        https://www.instagram.com/esee_degrowth/
+    contact_details:
+      social_networks:
+        instagram:
+          label: >-
+            esee_degrowth
+          value: >-
+            https://instagram.com/esee_degrowth
+        linkedin:
+          label: >-
+            esee-degrowth2024
+          value: >-
+            https://www.linkedin.com/company/esee-degrowth2024/
+        x:
+          label: >-
+            ESEE_Degrowth
+          value: >-
+            https://x.com/ESEE_Degrowth
+
   permalinks:
     posts: /practical-information/news-media-and-gallery/news/:year-:month-:day-:slug/
     posts_categories: /practical-information/news-media-and-gallery/news/:slug/
@@ -42,13 +53,24 @@ gl:
   languageCode: gl
   languageName: Galego
   params:
-    social:
-      x: >-
-        https://twitter.com/ESEE_Degrowth
-      linkedin: >-
-        https://www.linkedin.com/company/esee-degrowth2024/
-      instagram: >-
-        https://www.instagram.com/esee_degrowth/
+    contact_details:
+      social_networks:
+        instagram:
+          label: >-
+            esee_degrowth
+          value: >-
+            https://instagram.com/esee_degrowth
+        linkedin:
+          label: >-
+            esee-degrowth2024
+          value: >-
+            https://www.linkedin.com/company/esee-degrowth2024/
+        x:
+          label: >-
+            ESEE_Degrowth
+          value: >-
+            https://x.com/ESEE_Degrowth
+
   permalinks:
     posts: /practical-information/news-media-and-gallery/news/:year-:month-:day-:slug/
     posts_categories: /practical-information/news-media-and-gallery/news/:slug/
