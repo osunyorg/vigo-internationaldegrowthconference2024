@@ -5,5 +5,6 @@ items:
   target: "/gl/legal-terms/"
   kind: page
   children: []
+  path: "/pages/legal-terms"
   file: content/gl/pages/legal-terms/_index.html
 

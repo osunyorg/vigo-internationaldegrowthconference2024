@@ -5,5 +5,6 @@ items:
   target: "/en/legal/"
   kind: page
   children: []
+  path: "/pages/legal"
   file: content/en/pages/legal/_index.html
 
