@@ -4,38 +4,45 @@ items:
 - title: Home
   target: "/en/"
   kind: page
+  new_tab: false
   children: []
   path: "/"
   file: content/en/_index.html
 - title: The Conference
   target: "/en/the-conference/"
   kind: page
+  new_tab: false
   children:
   - title: About the conference
     target: "/en/the-conference/about-the-conference/"
     kind: page
+    new_tab: false
     children:
     - title: Organizers
       target: "/en/the-conference/about-the-conference/organizers/"
       kind: page
+      new_tab: false
       children: []
       path: "/pages/the-conference/about-the-conference/organizers"
       file: content/en/pages/the-conference/about-the-conference/organizers/_index.html
     - title: Principles
       target: "/en/the-conference/about-the-conference/principles/"
       kind: page
+      new_tab: false
       children: []
       path: "/pages/the-conference/about-the-conference/principles"
       file: content/en/pages/the-conference/about-the-conference/principles/_index.html
     - title: Keydates
       target: "/en/the-conference/keydates/"
       kind: page
+      new_tab: false
       children: []
       path: "/pages/the-conference/keydates"
       file: content/en/pages/the-conference/keydates/_index.html
     - title: Information for participants
       target: "/en/the-conference/information-for-participants/"
       kind: page
+      new_tab: false
       children: []
       path: "/pages/the-conference/information-for-participants"
       file: content/en/pages/the-conference/information-for-participants/_index.html
@@ -44,40 +51,47 @@ items:
   - title: Program
     target: "/en/the-conference/program/"
     kind: page
+    new_tab: false
     children:
     - title: Conference Programme
       target: "/en/the-conference/program/conference-programme/"
       kind: page
+      new_tab: false
       children: []
       path: "/pages/the-conference/program/conference-programme"
       file: content/en/pages/the-conference/program/conference-programme/_index.html
     - title: Tentative schedule
       target: "/en/the-conference/program/tentative-schedule/"
       kind: page
+      new_tab: false
       children: []
       path: "/pages/the-conference/program/tentative-schedule"
       file: content/en/pages/the-conference/program/tentative-schedule/_index.html
     - title: Tracks and Open Special Sessions
       target: "/en/the-conference/program/call-for-abstracts/tracks/"
       kind: page
+      new_tab: false
       children: []
       path: "/pages/the-conference/program/call-for-abstracts/tracks"
       file: content/en/pages/the-conference/program/call-for-abstracts/tracks/_index.html
     - title: Type of sessions an contribution formats
       target: "/en/the-conference/program/session-formats/"
       kind: page
+      new_tab: false
       children: []
       path: "/pages/the-conference/program/session-formats"
       file: content/en/pages/the-conference/program/session-formats/_index.html
     - title: Call for abstracts (closed)
       target: "/en/the-conference/program/call-for-abstracts/"
       kind: page
+      new_tab: false
       children: []
       path: "/pages/the-conference/program/call-for-abstracts"
       file: content/en/pages/the-conference/program/call-for-abstracts/_index.html
     - title: Posters
       target: "/en/the-conference/program/posters/"
       kind: page
+      new_tab: false
       children: []
       path: "/pages/the-conference/program/posters"
       file: content/en/pages/the-conference/program/posters/_index.html
@@ -86,18 +100,21 @@ items:
   - title: Opening Session
     target: "/en/the-conference/program/opening-session/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/the-conference/program/opening-session"
     file: content/en/pages/the-conference/program/opening-session/_index.html
   - title: Plenary Dialogues
     target: "/en/the-conference/program/plenary-dialogues/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/the-conference/program/plenary-dialogues"
     file: content/en/pages/the-conference/program/plenary-dialogues/_index.html
   - title: PhD Symposium
     target: "/en/the-conference/phd-symposium/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/the-conference/phd-symposium"
     file: content/en/pages/the-conference/phd-symposium/_index.html
@@ -106,28 +123,33 @@ items:
 - title: Beyond the Conference
   target: "/en/beyond-the-conference/"
   kind: page
+  new_tab: false
   children:
   - title: Conference social programme
     target: "/en/beyond-the-conference/beyond-the-conference-1/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/beyond-the-conference/beyond-the-conference-1"
     file: content/en/pages/beyond-the-conference/beyond-the-conference-1/_index.html
   - title: Degrowth Spring
     target: "/en/beyond-the-conference/primavera-decrecemento/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/beyond-the-conference/primavera-decrecemento"
     file: content/en/pages/beyond-the-conference/primavera-decrecemento/_index.html
   - title: Let's talk about Degrowth!
     target: "/en/beyond-the-conference/lets-talk-about-degrowth/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/beyond-the-conference/lets-talk-about-degrowth"
     file: content/en/pages/beyond-the-conference/lets-talk-about-degrowth/_index.html
   - title: Espazo Xove
     target: "/en/beyond-the-conference/espazo-xove/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/beyond-the-conference/espazo-xove"
     file: content/en/pages/beyond-the-conference/espazo-xove/_index.html
@@ -136,20 +158,24 @@ items:
 - title: Practical information
   target: ''
   kind: blank
+  new_tab: false
   children:
   - title: Registration
     target: "/en/practical-information/registration/"
     kind: page
+    new_tab: false
     children:
     - title: For academic activities (The Conference)
       target: "/en/practical-information/registration/academic-activities/"
       kind: page
+      new_tab: false
       children: []
       path: "/pages/practical-information/registration/academic-activities"
       file: content/en/pages/practical-information/registration/academic-activities/_index.html
     - title: For extra-academic activities (Beyond the Conference)
       target: "/en/practical-information/registration/extra-academic-activities/"
       kind: page
+      new_tab: false
       children: []
       path: "/pages/practical-information/registration/extra-academic-activities"
       file: content/en/pages/practical-information/registration/extra-academic-activities/_index.html
@@ -158,22 +184,26 @@ items:
   - title: Venue, travel and accomodation
     target: "/en/practical-information/venue-travel-and-accomodation/"
     kind: page
+    new_tab: false
     children:
     - title: Venue
       target: "/en/practical-information/venue-travel-and-accomodation/venue/"
       kind: page
+      new_tab: false
       children: []
       path: "/pages/practical-information/venue-travel-and-accomodation/venue"
       file: content/en/pages/practical-information/venue-travel-and-accomodation/venue/_index.html
     - title: Travel to Pontevedra
       target: "/en/practical-information/venue-travel-and-accomodation/travel/"
       kind: page
+      new_tab: false
       children: []
       path: "/pages/practical-information/venue-travel-and-accomodation/travel"
       file: content/en/pages/practical-information/venue-travel-and-accomodation/travel/_index.html
     - title: Accomodation
       target: "/en/practical-information/venue-travel-and-accomodation/accomodation/"
       kind: page
+      new_tab: false
       children: []
       path: "/pages/practical-information/venue-travel-and-accomodation/accomodation"
       file: content/en/pages/practical-information/venue-travel-and-accomodation/accomodation/_index.html
@@ -182,16 +212,19 @@ items:
   - title: News, media and gallery
     target: "/en/practical-information/news-media-and-gallery/"
     kind: page
+    new_tab: false
     children:
     - title: News
       target: "/en/practical-information/news-media-and-gallery/news/"
       kind: page
+      new_tab: false
       children: []
       path: "/posts"
       file: content/en/posts/_index.html
     - title: Gallery
       target: "/en/practical-information/news-media-and-gallery/gallery/"
       kind: page
+      new_tab: false
       children: []
       path: "/pages/practical-information/news-media-and-gallery/gallery"
       file: content/en/pages/practical-information/news-media-and-gallery/gallery/_index.html
@@ -200,6 +233,7 @@ items:
 - title: Can we help you?
   target: "/en/practical-information/can-we-help-you/"
   kind: page
+  new_tab: false
   children: []
   path: "/pages/practical-information/can-we-help-you"
   file: content/en/pages/practical-information/can-we-help-you/_index.html
