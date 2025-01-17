@@ -62,3 +62,15 @@ footer#document-footer
                 margin: 5px 15px
                 &::after
                     padding-left: 2px !important
+    .footer-legals
+        .nav-legal
+            display: flex
+            align-items: flex-start
+            flex-direction: column
+            .footer-i18n
+                --dropdown-hover-background: #4AC7C4
+                --dropdown-hover-color: var(--color-accent)
+                order: -1
+                margin-bottom: $spacing-5
+            + .footer-credit
+                margin-top: $spacing-2

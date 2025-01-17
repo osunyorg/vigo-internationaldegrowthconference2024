@@ -12,8 +12,12 @@ params:
   logo:
     header: "/assets/images/logo.svg"
     footer: "/assets/images/logo-white.svg"
+  i18n:
+    positions:
+      - primary
+      - footer
   debug:
-     productionUrl: "https://esee-degrowth2024.uvigo.gal"
+    productionUrl: "https://esee-degrowth2024.uvigo.gal"
   persons:
     single:
       backlinks: true
