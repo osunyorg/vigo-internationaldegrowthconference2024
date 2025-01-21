@@ -26,6 +26,7 @@ en:
             https://x.com/ESEE_Degrowth
 
   permalinks:
+    pages_categories: /:slug/
     posts: /practical-information/news-media-and-gallery/news/:year-:month-:day-:slug/
     posts_categories: /practical-information/news-media-and-gallery/news/:slug/
     organizations: /organisations/:slug/
@@ -40,6 +41,7 @@ en:
     events_category: events_categories
     location: locations
     organizations_category: organizations_categories
+    pages_category: pages_categories
     persons_category: persons_categories
     posts_category: posts_categories
     projects_category: projects_categories
@@ -72,6 +74,7 @@ gl:
             https://x.com/ESEE_Degrowth
 
   permalinks:
+    pages_categories: /:slug/
     posts: /practical-information/news-media-and-gallery/news/:year-:month-:day-:slug/
     posts_categories: /practical-information/news-media-and-gallery/news/:slug/
     organizations: /organisations/:slug/
@@ -86,6 +89,7 @@ gl:
     events_category: events_categories
     location: locations
     organizations_category: organizations_categories
+    pages_category: pages_categories
     persons_category: persons_categories
     posts_category: posts_categories
     projects_category: projects_categories
