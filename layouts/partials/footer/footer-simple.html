@@ -12,7 +12,7 @@
     {{ partial "footer/social.html" }}
   </div>
   <div class="footer-legals">
-    {{ partial "footer/legals.html" }}
+    {{ partial "footer/legals.html" . }}
     {{ if and site.Params.search.active (in site.Params.search.positions "footer") }}
       <div class="footer-search">
         {{ partial "commons/search/button.html" "footer" }}
