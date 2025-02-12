@@ -2,6 +2,11 @@
 
 baseURL: https://esee-degrowth2024.uvigo.gal
 
+## OSUNY
+osuny:
+  website:
+    id: bdf2a435-9edf-4671-9d84-d89f22683224
+
 ## LANGUAGE
 defaultContentLanguage: en
 defaultContentLanguageInSubdir: true
