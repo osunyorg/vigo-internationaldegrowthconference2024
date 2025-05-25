@@ -1,7 +1,5 @@
 theme: osuny
-paginate: 18
-enableRobotsTXT: true
-removePathAccents: true
+_merge: deep
 
 params:
   plausible: esee-degrowth2024.uvigo.gal
