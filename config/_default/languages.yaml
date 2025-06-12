@@ -26,15 +26,6 @@ en:
           value: >-
             https://x.com/ESEE_Degrowth
 
-  permalinks:
-    pages_categories: /:slug/
-    posts: /practical-information/news-media-and-gallery/news/:year-:month-:day-:slug/
-    posts_categories: /practical-information/news-media-and-gallery/news/:slug/
-    organizations: /organisations/:slug/
-    organizations_categories: /organisations/categories/:slug/
-    persons: /team/:slug/
-    persons_categories: /team/categories/:slug/
-    authors: /team/:slug/news/
   taxonomies:
     administrator: administrators
     author: authors
@@ -76,15 +67,6 @@ gl:
           value: >-
             https://x.com/ESEE_Degrowth
 
-  permalinks:
-    pages_categories: /:slug/
-    posts: /practical-information/news-media-and-gallery/news/:year-:month-:day-:slug/
-    posts_categories: /practical-information/news-media-and-gallery/news/:slug/
-    organizations: /organisations/:slug/
-    organizations_categories: /organisations/categories/:slug/
-    persons: /equipe/:slug/
-    persons_categories: /equipe/categories/:slug/
-    authors: /equipe/:slug/news/
   taxonomies:
     administrator: administrators
     author: authors
