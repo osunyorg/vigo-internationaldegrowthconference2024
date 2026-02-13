@@ -2,10 +2,12 @@
 title: Legal menu
 items:
 - title: Legal
+  slug: legal
   target: "/en/legal/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/legal"
   file: content/en/pages/legal/_index.html
 

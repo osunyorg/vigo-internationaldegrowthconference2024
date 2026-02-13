@@ -2,13 +2,17 @@
 title: Social menu
 items:
 - title: Twitter
+  slug: twitter
   target: https://twitter.com/post_growth
   kind: url
   new_tab: true
   children: []
+  descendants_targets: []
 - title: LinkedIn
+  slug: linkedin
   target: https://www.linkedin.com/company/postgrowth-lab/
   kind: url
   new_tab: true
   children: []
+  descendants_targets: []
 

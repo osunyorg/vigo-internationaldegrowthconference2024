@@ -2,239 +2,353 @@
 title: Main menu
 items:
 - title: Home
+  slug: home
   target: "/en/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/"
   file: content/en/_index.html
 - title: The Conference
+  slug: the-conference
   target: "/en/the-conference/"
   kind: page
   new_tab: false
   children:
   - title: About the conference
+    slug: about-the-conference
     target: "/en/the-conference/about-the-conference/"
     kind: page
     new_tab: false
     children:
     - title: Organizers
+      slug: organizers
       target: "/en/the-conference/about-the-conference/organizers/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/the-conference/about-the-conference/organizers"
       file: content/en/pages/the-conference/about-the-conference/organizers/_index.html
     - title: Principles
+      slug: principles
       target: "/en/the-conference/about-the-conference/principles/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/the-conference/about-the-conference/principles"
       file: content/en/pages/the-conference/about-the-conference/principles/_index.html
     - title: Keydates
+      slug: keydates
       target: "/en/the-conference/keydates/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/the-conference/keydates"
       file: content/en/pages/the-conference/keydates/_index.html
     - title: Information for participants
+      slug: information-for-participants
       target: "/en/the-conference/information-for-participants/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/the-conference/information-for-participants"
       file: content/en/pages/the-conference/information-for-participants/_index.html
+    descendants_targets:
+    - "/en/the-conference/about-the-conference/organizers/"
+    - "/en/the-conference/about-the-conference/principles/"
+    - "/en/the-conference/information-for-participants/"
+    - "/en/the-conference/keydates/"
     path: "/pages/the-conference/about-the-conference"
     file: content/en/pages/the-conference/about-the-conference/_index.html
   - title: Program
+    slug: program
     target: "/en/the-conference/program/"
     kind: page
     new_tab: false
     children:
     - title: Conference Programme
+      slug: conference-programme
       target: "/en/the-conference/program/conference-programme/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/the-conference/program/conference-programme"
       file: content/en/pages/the-conference/program/conference-programme/_index.html
     - title: Tentative schedule
+      slug: tentative-schedule
       target: "/en/the-conference/program/tentative-schedule/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/the-conference/program/tentative-schedule"
       file: content/en/pages/the-conference/program/tentative-schedule/_index.html
     - title: Tracks and Open Special Sessions
+      slug: tracks-and-open-special-sessions
       target: "/en/the-conference/program/call-for-abstracts/tracks/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/the-conference/program/call-for-abstracts/tracks"
       file: content/en/pages/the-conference/program/call-for-abstracts/tracks/_index.html
     - title: Type of sessions an contribution formats
+      slug: type-of-sessions-an-contribution-formats
       target: "/en/the-conference/program/session-formats/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/the-conference/program/session-formats"
       file: content/en/pages/the-conference/program/session-formats/_index.html
     - title: Call for abstracts (closed)
+      slug: call-for-abstracts-closed
       target: "/en/the-conference/program/call-for-abstracts/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/the-conference/program/call-for-abstracts"
       file: content/en/pages/the-conference/program/call-for-abstracts/_index.html
     - title: Posters
+      slug: posters
       target: "/en/the-conference/program/posters/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/the-conference/program/posters"
       file: content/en/pages/the-conference/program/posters/_index.html
+    descendants_targets:
+    - "/en/the-conference/program/call-for-abstracts/"
+    - "/en/the-conference/program/call-for-abstracts/tracks/"
+    - "/en/the-conference/program/conference-programme/"
+    - "/en/the-conference/program/posters/"
+    - "/en/the-conference/program/session-formats/"
+    - "/en/the-conference/program/tentative-schedule/"
     path: "/pages/the-conference/program"
     file: content/en/pages/the-conference/program/_index.html
   - title: Opening Session
+    slug: opening-session
     target: "/en/the-conference/program/opening-session/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/the-conference/program/opening-session"
     file: content/en/pages/the-conference/program/opening-session/_index.html
   - title: Plenary Dialogues
+    slug: plenary-dialogues
     target: "/en/the-conference/program/plenary-dialogues/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/the-conference/program/plenary-dialogues"
     file: content/en/pages/the-conference/program/plenary-dialogues/_index.html
   - title: PhD Symposium
+    slug: phd-symposium
     target: "/en/the-conference/phd-symposium/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/the-conference/phd-symposium"
     file: content/en/pages/the-conference/phd-symposium/_index.html
+  descendants_targets:
+  - "/en/the-conference/about-the-conference/"
+  - "/en/the-conference/about-the-conference/organizers/"
+  - "/en/the-conference/about-the-conference/principles/"
+  - "/en/the-conference/information-for-participants/"
+  - "/en/the-conference/keydates/"
+  - "/en/the-conference/phd-symposium/"
+  - "/en/the-conference/program/"
+  - "/en/the-conference/program/call-for-abstracts/"
+  - "/en/the-conference/program/call-for-abstracts/tracks/"
+  - "/en/the-conference/program/conference-programme/"
+  - "/en/the-conference/program/opening-session/"
+  - "/en/the-conference/program/plenary-dialogues/"
+  - "/en/the-conference/program/posters/"
+  - "/en/the-conference/program/session-formats/"
+  - "/en/the-conference/program/tentative-schedule/"
   path: "/pages/the-conference"
   file: content/en/pages/the-conference/_index.html
 - title: Beyond the Conference
+  slug: beyond-the-conference
   target: "/en/beyond-the-conference/"
   kind: page
   new_tab: false
   children:
   - title: Conference social programme
+    slug: conference-social-programme
     target: "/en/beyond-the-conference/beyond-the-conference-1/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/beyond-the-conference/beyond-the-conference-1"
     file: content/en/pages/beyond-the-conference/beyond-the-conference-1/_index.html
   - title: Degrowth Spring
+    slug: degrowth-spring
     target: "/en/beyond-the-conference/primavera-decrecemento/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/beyond-the-conference/primavera-decrecemento"
     file: content/en/pages/beyond-the-conference/primavera-decrecemento/_index.html
   - title: Let's talk about Degrowth!
+    slug: let-s-talk-about-degrowth
     target: "/en/beyond-the-conference/lets-talk-about-degrowth/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/beyond-the-conference/lets-talk-about-degrowth"
     file: content/en/pages/beyond-the-conference/lets-talk-about-degrowth/_index.html
   - title: Espazo Xove
+    slug: espazo-xove
     target: "/en/beyond-the-conference/espazo-xove/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/beyond-the-conference/espazo-xove"
     file: content/en/pages/beyond-the-conference/espazo-xove/_index.html
+  descendants_targets:
+  - "/en/beyond-the-conference/beyond-the-conference-1/"
+  - "/en/beyond-the-conference/espazo-xove/"
+  - "/en/beyond-the-conference/lets-talk-about-degrowth/"
+  - "/en/beyond-the-conference/primavera-decrecemento/"
   path: "/pages/beyond-the-conference"
   file: content/en/pages/beyond-the-conference/_index.html
 - title: Practical information
+  slug: practical-information
   target: ''
   kind: blank
   new_tab: false
   children:
   - title: Registration
+    slug: registration
     target: "/en/practical-information/registration/"
     kind: page
     new_tab: false
     children:
     - title: For academic activities (The Conference)
+      slug: for-academic-activities-the-conference
       target: "/en/practical-information/registration/academic-activities/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/practical-information/registration/academic-activities"
       file: content/en/pages/practical-information/registration/academic-activities/_index.html
     - title: For extra-academic activities (Beyond the Conference)
+      slug: for-extra-academic-activities-beyond-the-conference
       target: "/en/practical-information/registration/extra-academic-activities/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/practical-information/registration/extra-academic-activities"
       file: content/en/pages/practical-information/registration/extra-academic-activities/_index.html
+    descendants_targets:
+    - "/en/practical-information/registration/academic-activities/"
+    - "/en/practical-information/registration/extra-academic-activities/"
     path: "/pages/practical-information/registration"
     file: content/en/pages/practical-information/registration/_index.html
   - title: Venue, travel and accomodation
+    slug: venue-travel-and-accomodation
     target: "/en/practical-information/venue-travel-and-accomodation/"
     kind: page
     new_tab: false
     children:
     - title: Venue
+      slug: venue
       target: "/en/practical-information/venue-travel-and-accomodation/venue/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/practical-information/venue-travel-and-accomodation/venue"
       file: content/en/pages/practical-information/venue-travel-and-accomodation/venue/_index.html
     - title: Travel to Pontevedra
+      slug: travel-to-pontevedra
       target: "/en/practical-information/venue-travel-and-accomodation/travel/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/practical-information/venue-travel-and-accomodation/travel"
       file: content/en/pages/practical-information/venue-travel-and-accomodation/travel/_index.html
     - title: Accomodation
+      slug: accomodation
       target: "/en/practical-information/venue-travel-and-accomodation/accomodation/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/practical-information/venue-travel-and-accomodation/accomodation"
       file: content/en/pages/practical-information/venue-travel-and-accomodation/accomodation/_index.html
+    descendants_targets:
+    - "/en/practical-information/venue-travel-and-accomodation/accomodation/"
+    - "/en/practical-information/venue-travel-and-accomodation/travel/"
+    - "/en/practical-information/venue-travel-and-accomodation/venue/"
     path: "/pages/practical-information/venue-travel-and-accomodation"
     file: content/en/pages/practical-information/venue-travel-and-accomodation/_index.html
   - title: News, media and gallery
+    slug: news-media-and-gallery
     target: "/en/practical-information/news-media-and-gallery/"
     kind: page
     new_tab: false
     children:
     - title: News
+      slug: news
       target: "/en/practical-information/news-media-and-gallery/news/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/posts"
       file: content/en/posts/_index.html
     - title: Gallery
+      slug: gallery
       target: "/en/practical-information/news-media-and-gallery/gallery/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/practical-information/news-media-and-gallery/gallery"
       file: content/en/pages/practical-information/news-media-and-gallery/gallery/_index.html
+    descendants_targets:
+    - "/en/practical-information/news-media-and-gallery/gallery/"
+    - "/en/practical-information/news-media-and-gallery/news/"
     path: "/pages/practical-information/news-media-and-gallery"
     file: content/en/pages/practical-information/news-media-and-gallery/_index.html
+  descendants_targets:
+  - "/en/practical-information/news-media-and-gallery/"
+  - "/en/practical-information/news-media-and-gallery/gallery/"
+  - "/en/practical-information/news-media-and-gallery/news/"
+  - "/en/practical-information/registration/"
+  - "/en/practical-information/registration/academic-activities/"
+  - "/en/practical-information/registration/extra-academic-activities/"
+  - "/en/practical-information/venue-travel-and-accomodation/"
+  - "/en/practical-information/venue-travel-and-accomodation/accomodation/"
+  - "/en/practical-information/venue-travel-and-accomodation/travel/"
+  - "/en/practical-information/venue-travel-and-accomodation/venue/"
 - title: Can we help you?
+  slug: can-we-help-you
   target: "/en/practical-information/can-we-help-you/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/practical-information/can-we-help-you"
   file: content/en/pages/practical-information/can-we-help-you/_index.html
 
