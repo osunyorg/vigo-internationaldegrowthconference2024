@@ -4,8 +4,8 @@ en:
   title: >-
     International Degrowth Conference 2024
   contentDir: content/en
-  languageCode: en
-  languageName: English
+  locale: en
+  label: English
   buildFuture: true
   params:
     contact_details:
@@ -46,8 +46,8 @@ gl:
   title: >-
     International Degrowth Conference 2024
   contentDir: content/gl
-  languageCode: gl
-  languageName: Galego
+  locale: gl
+  label: Galego
   buildFuture: true
   params:
     contact_details:
