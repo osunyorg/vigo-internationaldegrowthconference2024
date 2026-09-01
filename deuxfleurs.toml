@@ -327,6 +327,10 @@ from = "/the-conference/keydates/index.html"
 to = "/en/the-conference/keydates/"
 
 [[redirects]]
+from = "/en/files/2026/index.html"
+to = "/en/files/2026/call-special-sessions-posterpdf/"
+
+[[redirects]]
 from = "/en/practical-information/venue-travel-and-accomodation/venue-travel-and-accomodation-1-1-1/index.html"
 to = "/en/practical-information/venue-travel-and-accomodation/accomodation/"
 
@@ -769,6 +773,10 @@ to = "/en/sitemap/"
 [[redirects]]
 from = "/the-conference/special-sessions/index.html"
 to = "/en/the-conference/program/special-sessions-call/"
+
+[[redirects]]
+from = "/gl/2026/index.html"
+to = "/gl/2026/oss-reviewrankingdocx/"
 
 [[redirects]]
 from = "/actualites/index.html"
