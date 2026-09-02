@@ -51,6 +51,10 @@ from = "/organisations/index.html"
 to = "/en/organisations/"
 
 [[redirects]]
+from = "/gl/2026/plantilla-presentacionespotx/index.html"
+to = "/gl/fichiers/2026/plantilla-presentacionespotx/"
+
+[[redirects]]
 from = "/the-conference/index.html"
 to = "/en/the-conference/"
 
@@ -187,6 +191,10 @@ from = "/en/team/speaker-12/index.html"
 to = "/en/team/andreajimenez/"
 
 [[redirects]]
+from = "/gl/2026/oss-reviewrankingdocx/index.html"
+to = "/gl/fichiers/2026/oss-reviewrankingdocx/"
+
+[[redirects]]
 from = "/en/ss25-embodying-degrowth/index.html"
 to = "/en/ss24-embodying-degrowth/"
 
@@ -235,6 +243,10 @@ from = "/gl/16-maio/index.html"
 to = "/gl/beyond-the-conference/primavera-decrecemento/16-maio/"
 
 [[redirects]]
+from = "/gl/2026/programa-social-galegopdf/index.html"
+to = "/gl/fichiers/2026/programa-social-galegopdf/"
+
+[[redirects]]
 from = "/gl/organisations/accomodation-galicia-palace/index.html"
 to = "/gl/organisations/galicia-palace/"
 
@@ -253,6 +265,10 @@ to = "/en/politique-de-confidentialite/"
 [[redirects]]
 from = "/en/the-conference/session-formats/index.html"
 to = "/en/the-conference/program/session-formats/"
+
+[[redirects]]
+from = "/gl/2026/programa-conference-galegopdf/index.html"
+to = "/gl/fichiers/2026/programa-conference-galegopdf/"
 
 [[redirects]]
 from = "/en/venres-21/index.html"
@@ -439,6 +455,10 @@ from = "/en/practical-information/news-media-and-gallery/news/2024-02-13-interna
 to = "/en/practical-information/news-media-and-gallery/news/2024-02-13-idn-assembly/"
 
 [[redirects]]
+from = "/gl/2026/a-cidade-sonadapdf/index.html"
+to = "/gl/fichiers/2026/a-cidade-sonadapdf/"
+
+[[redirects]]
 from = "/gl/beyond-the-conference/beyond-the-conference-1/mesa-politica-o-decrecemento-como-oportunidade/index.html"
 to = "/gl/beyond-the-conference/beyond-the-conference-1/mesa-politica-sindical/"
 
@@ -551,6 +571,14 @@ from = "/team/stefania-barca/index.html"
 to = "/en/team/stefania-barca/"
 
 [[redirects]]
+from = "/gl/2026/work-sanszip/index.html"
+to = "/gl/fichiers/2026/work-sanszip/"
+
+[[redirects]]
+from = "/gl/2026/call-special-sessions-poster-galpdf/index.html"
+to = "/gl/fichiers/2026/call-special-sessions-poster-galpdf/"
+
+[[redirects]]
 from = "/en/ss04-characterising-suburban-post-growth/index.html"
 to = "/en/ss11-post-growth-in-the-urbanized-periphery/"
 
@@ -577,6 +605,10 @@ to = "/en/organisations/galicia-palace/"
 [[redirects]]
 from = "/en/practical-information/accomodationesee/index.html"
 to = "/en/practical-information/venue-travel-and-accomodation/accomodation/"
+
+[[redirects]]
+from = "/gl/2026/call-special-sessions-galpdf/index.html"
+to = "/gl/fichiers/2026/call-special-sessions-galpdf/"
 
 [[redirects]]
 from = "/en/beyond-the-conference/espazo-xove/espazo-xove-chamada-a-participacion/index.html"
@@ -776,7 +808,7 @@ to = "/en/the-conference/program/special-sessions-call/"
 
 [[redirects]]
 from = "/gl/2026/index.html"
-to = "/gl/2026/oss-reviewrankingdocx/"
+to = "/gl/fichiers/2026/oss-reviewrankingdocx/"
 
 [[redirects]]
 from = "/actualites/index.html"
@@ -809,6 +841,10 @@ to = "/en/organisations/european-society-for-ecological-economics/"
 [[redirects]]
 from = "/en/team/speaker-13/index.html"
 to = "/en/team/ugovallauri/"
+
+[[redirects]]
+from = "/gl/2026/call-special-sessionspdf/index.html"
+to = "/gl/fichiers/2026/call-special-sessionspdf/"
 
 [[redirects]]
 from = "/gl/the-conference/call-for-proposals/index.html"
